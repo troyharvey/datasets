@@ -1,1076 +1,1076 @@
-AREA CODE,CITY,STATE/PROVINCE,STATE/PROVINCE ABBREVIATION,COUNTY,
-201,Jersey City,New Jersey,NJ,HUDSON,#N/A
-201,Hackensack,New Jersey,NJ,BERGEN,#N/A
-202,Washington,District of Columbia,DC,DISTRICT OF COLUMBIA,#N/A
-203,Bridgeport,Connecticut,CT,FAIRFIELD,#N/A
-203,Stamford,Connecticut,CT,FAIRFIELD,#N/A
-203,Waterbury,Connecticut,CT,NEW HAVEN,#N/A
-203,New Haven,Connecticut,CT,NEW HAVEN,#N/A
-203,Danbury,Connecticut,CT,FAIRFIELD,#N/A
-203,Norwalk,Connecticut,CT,FAIRFIELD,#N/A
+AREA CODE,CITY,STATE/PROVINCE,STATE/PROVINCE ABBREVIATION,COUNTY,COUNTY FIPS
+201,Jersey City,New Jersey,NJ,HUDSON,34017
+201,Hackensack,New Jersey,NJ,BERGEN,34003
+202,Washington,District of Columbia,DC,DISTRICT OF COLUMBIA,11001
+203,Bridgeport,Connecticut,CT,FAIRFIELD,09001
+203,Stamford,Connecticut,CT,FAIRFIELD,09001
+203,Waterbury,Connecticut,CT,NEW HAVEN,09009
+203,New Haven,Connecticut,CT,NEW HAVEN,09009
+203,Danbury,Connecticut,CT,FAIRFIELD,09001
+203,Norwalk,Connecticut,CT,FAIRFIELD,09001
 204,Winnipeg,Manitoba,MB,#N/A,#N/A
-205,Birmingham,Alabama,AL,JEFFERSON,#N/A
-205,Tuscaloosa,Alabama,AL,TUSCALOOSA,#N/A
-206,Seattle,Washington,WA,KING,#N/A
-206,Bainbridge Island,Washington,WA,KITSAP,
-207,Portland,Maine,ME,CUMBERLAND,
-207,Lewiston,Maine,ME,ANDROSCOGGIN,
-207,Rumford,Maine,ME,OXFORD,
-207,Augusta,Maine,ME,KENNEBEC,
-207,Millinocket,Maine,ME,PENOBSCOT,
-207,Calais,Maine,ME,WASHINGTON,
-207,Presque Isle,Maine,ME,AROOSTOOK,
-207,Bangor,Maine,ME,PENOBSCOT,
-208,Boise,Idaho,ID,ADA,
-208,Coeur D'alene,Idaho,ID,#N/A,
-208,Lewiston,Idaho,ID,NEZ PERCE,
-208,Twin Falls,Idaho,ID,TWIN FALLS,
-208,Idaho Falls,Idaho,ID,BONNEVILLE,
-208,Pocatello,Idaho,ID,BANNOCK,
-209,Merced,California,CA,MERCED,
-209,Modesto,California,CA,STANISLAUS,
-209,Stockton,California,CA,SAN JOAQUIN,
-209,Yosemite,California,CA,#N/A,
-210,San Antonio,Texas,TX,BEXAR,
-210,Alamo,Texas,TX,HIDALGO,
-212,New York City,New York,NY,#N/A,
-212,Manhattan,New York,NY,#N/A,
-213,Los Angeles,California,CA,LOS ANGELES,
-214,Dallas,Texas,TX,DALLAS,
-214,Plano,Texas,TX,COLLIN,
-215,Philadelphia,Pennsylvania,PA,PHILADELPHIA,
-216,Cleveland,Ohio,OH,CUYAHOGA,
-216,Euclid,Ohio,OH,CUYAHOGA,
-216,Lakewood,Ohio,OH,CUYAHOGA,
-217,Champaign,Illinois,IL,CHAMPAIGN,
-217,Springfield,Illinois,IL,SANGAMON,
-217,Decatur,Illinois,IL,MACON,
-218,Duluth,Minnesota,MN,SAINT LOUIS,
-218,International Falls,Minnesota,MN,KOOCHICHING,
-218,Thief River Falls,Minnesota,MN,PENNINGTON,
-218,Virginia,Minnesota,MN,SAINT LOUIS,
-218,Grand Rapids,Minnesota,MN,ITASCA,
-218,Brainerd,Minnesota,MN,CROW WING,
-219,Gary,Indiana,IN,LAKE,
-219,South Bend,Indiana,IN,ST JOSEPH,
-219,Fort Wayne,Indiana,IN,ALLEN,
-219,Hammond,Indiana,IN,LAKE,
-219,Warsaw,Indiana,IN,KOSCIUSKO,
-225,New Roads,Louisiana,LA,POINTE COUPEE,
-225,Baton Rouge,Louisiana,LA,EAST BATON ROUGE,
-228,Gulfport,Mississippi,MS,HARRISON,
-228,Biloxi,Mississippi,MS,HARRISON,
-228,Pascagoula,Mississippi,MS,JACKSON,
-229,Americus,Georgia,GA,SUMTER,
-229,Albany,Georgia,GA,DOUGHERTY,
-229,Bainbridge,Georgia,GA,DECATUR,
-229,Valdosta,Georgia,GA,LOWNDES,
-231,Petoskey,Michigan,MI,EMMET,
-231,Traverse City,Michigan,MI,GRAND TRAVERSE,
-231,Ludington,Michigan,MI,MASON,
-231,Muskegon,Michigan,MI,MUSKEGON,
-234,Akron,Ohio,OH,SUMMIT,
-234,Canton,Ohio,OH,STARK,
-234,Youngstown,Ohio,OH,MAHONING,
-234,Kent,Ohio,OH,PORTAGE,
-240,Hagerstown,Maryland,MD,WASHINGTON,
-240,Frederick,Maryland,MD,FREDERICK,
-240,Cumberland,Maryland,MD,ALLEGANY,
-240,Bethesda,Maryland,MD,MONTGOMERY,
-240,Rockville,Maryland,MD,MONTGOMERY,
-240,Silver Spring,Maryland,MD,MONTGOMERY,
-242,,Bahamas,,#N/A,
-246,,Barbados,,#N/A,
-248,Troy,Michigan,MI,OAKLAND,
-248,Pontiac,Michigan,MI,OAKLAND,
-248,Southfield,Michigan,MI,OAKLAND,
-248,Birmingham,Michigan,MI,OAKLAND,
-251,Jackson,Alabama,AL,CLARKE,
-251,Mobile,Alabama,AL,MOBILE,
-252,Greenville,North Carolina,NC,PITT,
-252,Cape Hatteras,North Carolina,NC,DARE,
-252,Rocky Mount,North Carolina,NC,EDGECOMBE,
-252,Kitty Hawk,North Carolina,NC,DARE,
-253,Tacoma,Washington,WA,PIERCE,
-253,Auburn,Washington,WA,KING,
-254,Waco,Texas,TX,MCLENNAN,
-254,Killeen,Texas,TX,BELL,
-256,Florence,Alabama,AL,LAUDERDALE,
-256,Huntsville,Alabama,AL,MADISON,
-256,Gadsden,Alabama,AL,ETOWAH,
-256,Anniston,Alabama,AL,CALHOUN,
-262,West Bend,Wisconsin,WI,WASHINGTON,
-262,Racine,Wisconsin,WI,RACINE,
-262,Kenosha,Wisconsin,WI,KENOSHA,
-262,Waukesha,Wisconsin,WI,WAUKESHA,
-267,Philadelphia,Pennsylvania,PA,PHILADELPHIA,
-270,Owensboro,Kentucky,KY,DAVIESS,
-270,Paducah,Kentucky,KY,MCCRACKEN,
-270,Hopkinsville,Kentucky,KY,CHRISTIAN,
-270,Bowling Green,Kentucky,KY,WARREN,
-276,Abingdon,Virginia,VA,WASHINGTON,
-276,Bristol,Virginia,VA,BRISTOL,
-276,Wytheville,Virginia,VA,WYTHE,
-281,Houston,Texas,TX,HARRIS,
-281,Sugar Land,TX,,#N/A,
-284,Tortola,British Virgin Islands,,#N/A,
-289,Hamilton,Ontario,ON,#N/A,
-289,Niagara Falls,Ontario,ON,#N/A,
-289,Unionville,Ontario,ON,#N/A,
-289,Woodbridge,Ontario,ON,#N/A,
-289,Hamilton,Ontario,ON,#N/A,
-289,Mississauga,Ontario,ON,#N/A,
-301,Hagerstown,Maryland,MD,WASHINGTON,
-301,Frederick,Maryland,MD,FREDERICK,
-301,Cumberland,Maryland,MD,ALLEGANY,
-301,Bethesda,Maryland,MD,MONTGOMERY,
-301,Rockville,Maryland,MD,MONTGOMERY,
-301,Silver Spring,Maryland,MD,MONTGOMERY,
-302,Dover,Deleware,DE,KENT,
-302,Wilmington,Deleware,DE,NEW CASTLE,
-302,Middletown,Deleware,DE,NEW CASTLE,
-302,Milford,Deleware,DE,SUSSEX,
-302,Nassau,Deleware,DE,SUSSEX,
-302,Georgetown,Deleware,DE,SUSSEX,
-302,Seaford,Deleware,DE,SUSSEX,
-303,Boulder,Colorado,CO,BOULDER,
-303,Denver,Colorado,CO,DENVER,
-303,Arvada,Colorado,CO,JEFFERSON,
-303,Aurora,Colorado,CO,ARAPAHOE,
-303,Englewood,Colorado,CO,ARAPAHOE,
-303,Littleton,Colorado,CO,ARAPAHOE,
-303,Longmont,Colorado,CO,BOULDER,
-304,Wheeling,West Virginia,WV,OHIO,
-304,Morgantown,West Virginia,WV,MONONGALIA,
-304,Martinsburg,West Virginia,WV,BERKELEY,
-304,Parkersburg,West Virginia,WV,WOOD,
-304,Richwood,West Virginia,WV,NICHOLAS,
-304,Huntington,West Virginia,WV,CABELL,
-304,Charleston,West Virginia,WV,KANAWHA,
-304,Beckley,West Virginia,WV,RALEIGH,
-304,Bluefield,West Virginia,WV,MERCER,
-305,Hialeah,Florida,FL,MIAMI-DADE,
-305,Homestead,Florida,FL,MIAMI-DADE,
-305,Marathon,Florida,FL,MONROE,
-305,Key West,Florida,FL,MONROE,
-305,Miami,Florida,FL,MIAMI-DADE,
-305,Miami Beach,Florida,FL,MIAMI-DADE,
-305,Coral Gables,Florida,FL,#N/A,
-306,Saskatoon,Saskatchewan,SK,#N/A,
-306,Regina,Saskatchewan,SK,#N/A,
-307,Cody,Wyoming,WY,PARK,
-307,Sheridan,Wyoming,WY,SHERIDAN,
-307,Gillette,Wyoming,WY,CAMPBELL,
-307,Jackson,Wyoming,WY,TETON,
-307,Riverton,Wyoming,WY,FREMONT,
-307,Casper,Wyoming,WY,NATRONA,
-307,Green River,Wyoming,WY,SWEETWATER,
-307,Evanston,Wyoming,WY,UINTA,
-307,Laramie,Wyoming,WY,ALBANY,
-307,Cheyenne,Wyoming,WY,LARAMIE,
-308,Grand Island,Nebraska,NE,HALL,
-308,North Platte,Nebraska,NE,LINCOLN,
-308,Scottsbluff,Nebraska,NE,SCOTTS BLUFF,
-308,Mc Cook,Nebraska,NE,RED WILLOW,
-309,Bloomington,Illinois,IL,MCLEAN,
-309,Peoria,Illinois,IL,PEORIA,
-309,Moline,Illinois,IL,ROCK ISLAND,
-310,Beverly Hills,California,CA,LOS ANGELES,
-310,Gardena,California,CA,LOS ANGELES,
-310,Malibu,California,CA,LOS ANGELES,
-310,Torrance,California,CA,LOS ANGELES,
-310,Los Angeles,California,CA,LOS ANGELES,
-310,Santa Monica,California,CA,LOS ANGELES,
-312,Chicago,Illinois,IL,COOK,
-313,Detroit,Michigan,MI,WAYNE,
-314,Saint Louis,Missouri,MO,SAINT LOUIS CITY,
-314,Union,Missouri,MO,FRANKLIN,
-314,Saint Peters,Missouri,MO,SAINT CHARLES,
-315,Syracuse,New York,NY,ONONDAGA,
-315,Utica,New York,NY,ONEIDA,
-315,Watertown,New York,NY,JEFFERSON,
-316,Wichita,Kansas,KS,SEDGWICK,
-317,Indianapolis,Indiana,IN,MARION,
-318,Alexandria,Louisiana,LA,RAPIDES,
-318,Monroe,Louisiana,LA,OUACHITA,
-318,Shreveport,Louisiana,LA,CADDO,
-319,Decorah,Iowa,IA,WINNESHIEK,
-319,Waterloo,Iowa,IA,BLACK HAWK,
-319,Dubuque,Iowa,IA,DUBUQUE,
-319,Cedar Rapids,Iowa,IA,LINN,
-319,Clinton,Iowa,IA,CLINTON,
-319,Iowa City,Iowa,IA,JOHNSON,
-319,Davenport,Iowa,IA,SCOTT,
-319,Burlington,Iowa,IA,DES MOINES,
-320,Alexandria,Minnesota,MN,DOUGLAS,
-320,Hutchinson,Minnesota,MN,MCLEOD,
-320,Saint Cloud,Minnesota,MN,STEARNS,
-320,Morris,Minnesota,MN,STEVENS,
-320,Little Falls,Minnesota,MN,MORRISON,
-320,Willmar,Minnesota,MN,KANDIYOHI,
-321,Kissimmee,Florida,FL,OSCEOLA,
-321,Melbourne,Florida,FL,BREVARD,
-321,Orlando,Florida,FL,ORANGE,
-321,Cape Canaveral,Florida,FL,BREVARD,
-321,Cape Kennedy,Florida,FL,#N/A,
-323,Beverly Hills,California,CA,LOS ANGELES,
-323,Los Angeles,California,CA,LOS ANGELES,
-330,Akron,Ohio,OH,SUMMIT,
-330,Canton,Ohio,OH,STARK,
-330,Youngstown,Ohio,OH,MAHONING,
-330,Kent,Ohio,OH,PORTAGE,
-334,Auburn,Alabama,AL,LEE,
-334,Dothan,Alabama,AL,HOUSTON,
-334,Mobile,Alabama,AL,MOBILE,
-334,Montgomery,Alabama,AL,MONTGOMERY,
-334,Selma,Alabama,AL,DALLAS,
-334,Jackson,Alabama,AL,CLARKE,
-336,Burlington,North Carolina,NC,ALAMANCE,
-336,Winston-Salem,North Carolina,NC,#N/A,
-336,Asheboro,North Carolina,NC,RANDOLPH,
-336,Greensboro,North Carolina,NC,GUILFORD,
-336,High Point,North Carolina,NC,GUILFORD,
-337,Lake Charles,Louisiana,LA,CALCASIEU,
-337,Lafayette,Louisiana,LA,LAFAYETTE,
-339,Saugus,Massachusetts,MA,ESSEX,
-339,Lynn,Massachusetts,MA,ESSEX,
-339,Weymouth,Massachusetts,MA,NORFOLK,
-339,Norwood,Massachusetts,MA,NORFOLK,
-340,Saint Croix,United States Virgin Islands,VI,#N/A,
-340,Charlotte Amalie,United States Virgin Islands,VI,#N/A,
-345,,Cayman Islands,,#N/A,
-347,New York City,New York,NY,#N/A,
-347,Brooklyn,New York,NY,KINGS,
-347,Queens,New York,NY,#N/A,
-347,Bronx,New York,NY,BRONX,
-347,Staten Island,New York,NY,RICHMOND,
-351,Fitchburg,Massachusetts,MA,WORCESTER,
-351,Methuen,Massachusetts,MA,ESSEX,
-351,Peabody,Massachusetts,MA,ESSEX,
-351,Lowell,Massachusetts,MA,MIDDLESEX,
-352,Gainesville,Florida,FL,ALACHUA,
-352,Ocala,Florida,FL,MARION,
-360,Bellingham,Washington,WA,WHATCOM,
-360,Olympia,Washington,WA,THURSTON,
-360,Vancouver,Washington,WA,CLARK,
-360,Aberdeen,Washington,WA,GRAYS HARBOR,
-360,Port Angeles,Washington,WA,CLALLAM,
-360,Bremerton,Washington,WA,KITSAP,
-361,Victoria,Texas,TX,VICTORIA,
-361,Corpus Christi,Texas,TX,NUECES,
-386,Daytona Beach,Florida,FL,VOLUSIA,
-401,Providence,Rhode Island,RI,PROVIDENCE,
-401,Woonsocket,Rhode Island,RI,PROVIDENCE,
-401,Foster,Rhode Island,RI,PROVIDENCE,
-401,Cranston,Rhode Island,RI,PROVIDENCE,
-401,Warwick,Rhode Island,RI,KENT,
-401,Newport,Rhode Island,RI,NEWPORT,
-401,Westerly,Rhode Island,RI,WASHINGTON,
-402,Valentine,Nebraska,NE,CHERRY,
-402,Norfolk,Nebraska,NE,MADISON,
-402,Omaha,Nebraska,NE,DOUGLAS,
-402,Lincoln,Nebraska,NE,LANCASTER,
-402,Hastings,Nebraska,NE,ADAMS,
-403,Calgary,Alberta,AB,#N/A,
-404,Atlanta,Georgia,GA,FULTON,
-404,College Park,Georgia,GA,#N/A,
-404,Decatur,Georgia,GA,DEKALB,
-405,Oklahoma City,Oklahoma,OK,OKLAHOMA,
-405,Edmond,Oklahoma,OK,OKLAHOMA,
-405,Norman,Oklahoma,OK,CLEVELAND,
-405,Stillwater,Oklahoma,OK,PAYNE,
-406,Billings,Montana,MT,YELLOWSTONE,
-406,Kalispell,Montana,MT,FLATHEAD,
-406,Missoula,Montana,MT,MISSOULA,
-406,Havre,Montana,MT,HILL,
-406,Great Falls,Montana,MT,CASCADE,
-406,Helena,Montana,MT,LEWIS AND CLARK,
-406,Butte,Montana,MT,SILVER BOW,
-406,Bozeman,Montana,MT,GALLATIN,
-406,Wolf Point,Montana,MT,ROOSEVELT,
-406,Miles City,Montana,MT,CUSTER,
-406,Billings,Montana,MT,YELLOWSTONE,
-407,Kissimmee,Florida,FL,OSCEOLA,
-407,Orlando,Florida,FL,ORANGE,
-408,San Jose,California,CA,SANTA CLARA,
-408,Los Gatos,California,CA,SANTA CLARA,
-409,Beaumont,Texas,TX,JEFFERSON,
-409,Galveston,Texas,TX,GALVESTON,
-410,Baltimore,Maryland,MD,BALTIMORE CITY,
-410,Aberdeen,Maryland,MD,HARFORD,
-410,Annapolis,Maryland,MD,ANNE ARUNDEL,
-410,Cambridge,Maryland,MD,DORCHESTER,
-410,Salisbury,Maryland,MD,WICOMICO,
-410,Towson,Maryland,MD,BALTIMORE,
-412,Pittsburgh,Pennsylvania,PA,ALLEGHENY,
-413,Springfield,Massachusetts,MA,HAMPDEN,
-413,Pittsfield,Massachusetts,MA,BERKSHIRE,
-413,Greenfield,Massachusetts,MA,FRANKLIN,
-414,Milwaukee,Wisconsin,WI,MILWAUKEE,
-415,San Francisco,California,CA,SAN FRANCISCO,
-415,San Rafael,California,CA,MARIN,
-415,Novato,California,CA,MARIN,
-416,Toronto,Ontario,ON,#N/A,
-417,Joplin,Missouri,MO,JASPER,
-417,Springfield,Missouri,MO,GREENE,
-417,West Plains,Missouri,MO,HOWELL,
-418,Quebec,Quebec,PQ,#N/A,
-419,Toledo,Ohio,OH,LUCAS,
-419,Sandusky,Ohio,OH,ERIE,
-419,Bowling Green,Ohio,OH,WOOD,
-419,Bryan,Ohio,OH,WILLIAMS,
-419,Lima,Ohio,OH,ALLEN,
-419,Mansfield,Ohio,OH,RICHLAND,
-423,Chattanooga,Tennessee,TN,HAMILTON,
-423,Sweetwater,Tennessee,TN,MONROE,
-423,Bristol,Tennessee,TN,SULLIVAN,
-423,Johnson City,Tennessee,TN,WASHINGTON,
-423,Kingsport,Tennessee,TN,SULLIVAN,
-423,Madison,Tennessee,TN,DAVIDSON,
-425,Bellevue,Washington,WA,KING,
-425,Everett,Washington,WA,SNOHOMISH,
-425,Redmond,Washington,WA,KING,
-434,Lynchburg,Virginia,VA,LYNCHBURG CITY,
-434,Danville,Virginia,VA,DANVILLE CITY,
-434,Charlottesville,Virginia,VA,ALBEMARLE,
-435,Logan,Utah,UT,CACHE,
-435,Moab,Utah,UT,GRAND,
-435,Richfield,Utah,UT,SEVIER,
-435,Blanding,Utah,UT,SAN JUAN,
-435,Saint George,Utah,UT,WASHINGTON,
-440,Parma,Ohio,OH,#N/A,
-440,Elyria,Ohio,OH,LORAIN,
-440,Lorain,Ohio,OH,LORAIN,
-440,Ashtabula,Ohio,OH,ASHTABULA,
-440,Mentor,Ohio,OH,LAKE,
-441,,Bermuda,,#N/A,
-443,Baltimore,Maryland,MD,BALTIMORE CITY,
-443,Aberdeen,Maryland,MD,HARFORD,
-443,Annapolis,Maryland,MD,ANNE ARUNDEL,
-443,Cambridge,Maryland,MD,DORCHESTER,
-443,Salisbury,Maryland,MD,WICOMICO,
-443,Towson,Maryland,MD,BALTIMORE,
-450,Laval,Quebec,PQ,#N/A,
-450,Longueuil,Quebec,PQ,#N/A,
-469,Dallas,Texas,TX,DALLAS,
-469,Plano,Texas,TX,COLLIN,
-473,,Grenada,,#N/A,
-478,Macon,Georgia,GA,BIBB,
-478,Warner Robins,Georgia,GA,HOUSTON,
-478,Swainsboro,Georgia,GA,EMANUEL,
-480,Mesa,Arizona,AZ,MARICOPA,
-480,Chandler,Arizona,AZ,MARICOPA,
-480,Tempe,Arizona,AZ,MARICOPA,
-480,Scottsdale,Arizona,AZ,MARICOPA,
-484,Allentown,Pennsylvania,PA,LEHIGH,
-484,King of Prussia,Pennsylvania,PA,MONTGOMERY,
-484,Reading,Pennsylvania,PA,BERKS,
-484,Bethlehem,Pennsylvania,PA,NORTHAMPTON,
-484,Norristown,Pennsylvania,PA,MONTGOMERY,
-484,West Chester,Pennsylvania,PA,CHESTER,
-501,Fayetteville,Arkansas,AR,WASHINGTON,
-501,Fort Smith,Arkansas,AR,SEBASTIAN,
-501,Hope,Arkansas,AR,HEMPSTEAD,
-501,Hot Springs,Arkansas,AR,#N/A,
-501,Little Rock,Arkansas,AR,PULASKI,
-502,Louisville,Kentucky,KY,JEFFERSON,
-502,Frankfurt,Kentucky,KY,#N/A,
-502,Shelbyville,Kentucky,KY,SHELBY,
-503,Astoria,Oregon,OR,CLATSOP,
-503,Tillamook,Oregon,OR,TILLAMOOK,
-503,Portland,Oregon,OR,MULTNOMAH,
-503,Salem,Oregon,OR,MARION,
-503,Hillsboro,Oregon,OR,WASHINGTON,
-504,New Orleans,Louisiana,LA,ORLEANS,
-505,Albuquerque,New Mexico,NM,BERNALILLO,
-505,Las Cruces,New Mexico,NM,DONA ANA,
-505,Los Alamos,New Mexico,NM,LOS ALAMOS,
-505,Santa Fe,New Mexico,NM,SANTA FE,
-505,Farmington,New Mexico,NM,SAN JUAN,
-505,Taos,New Mexico,NM,TAOS,
-505,Gallup,New Mexico,NM,MCKINLEY,
-505,Roswell,New Mexico,NM,CHAVES,
-505,Carlsbad,New Mexico,NM,EDDY,
-505,Silver City,New Mexico,NM,GRANT,
-506,Fredericton,New Brunswick,NB,#N/A,
-506,Moncton,New Brunswick,NB,#N/A,
-507,Rochester,Minnesota,MN,OLMSTED,
-507,Mankato,Minnesota,MN,BLUE EARTH,
-507,Marshall,Minnesota,MN,LYON,
-507,Worthington,Minnesota,MN,NOBLES,
-507,Le Sueur,Minnesota,MN,LE SUEUR,
-507,Austin,Minnesota,MN,MOWER,
-508,Worcester,Massachusetts,MA,WORCESTER,
-508,Attleboro,Massachusetts,MA,BRISTOL,
-508,Framingham,Massachusetts,MA,MIDDLESEX,
-508,Hyannis,Massachusetts,MA,BARNSTABLE,
-508,New Bedford,Massachusetts,MA,BRISTOL,
-508,Plymouth,Massachusetts,MA,PLYMOUTH,
-509,Yakima,Washington,WA,YAKIMA,
-509,Spokane,Washington,WA,SPOKANE,
-509,Walla Walla,Washington,WA,WALLA WALLA,
-509,Pullman,Washington,WA,WHITMAN,
-510,Berkeley,California,CA,ALAMEDA,
-510,Oakland,California,CA,ALAMEDA,
-510,Fremont,California,CA,ALAMEDA,
-510,Hayward,California,CA,ALAMEDA,
-512,Austin,Texas,TX,TRAVIS,
-513,Cincinnati,Ohio,OH,HAMILTON,
-513,Middletown,Ohio,OH,BUTLER,
-513,Hamilton,Ohio,OH,BUTLER,
-514,Montreal,Quebec,PQ,#N/A,
-515,Des Moines,Iowa,IA,POLK,
-515,Fort Dodge,Iowa,IA,WEBSTER,
-515,Ames,Iowa,IA,STORY,
-516,Plainview,New York,NY,NASSAU,
-516,Elmont,New York,NY,NASSAU,
-517,Lansing,Michigan,MI,INGHAM,
-517,Jackson,Michigan,MI,JACKSON,
-518,Albany,New York,NY,ALBANY,
-518,Plattsburgh,New York,NY,CLINTON,
-518,Saranac Lake,New York,NY,FRANKLIN,
-518,Schenectady,New York,NY,SCHENECTADY,
-519,London,Ontario,ON,#N/A,
-519,Windsor,Ontario,ON,#N/A,
-520,Nogales,Arizona,AZ,SANTA CRUZ,
-520,Sierra Vista,Arizona,AZ,COCHISE,
-520,Tucson,Arizona,AZ,PIMA,
-530,Alturas,California,CA,MODOC,
-530,Redding,California,CA,SHASTA,
-530,Chico,California,CA,BUTTE,
-530,Lake Tahoe,California,CA,#N/A,
-530,Yreka,California,CA,SISKIYOU,
-540,Winchester,Virginia,VA,WINCHESTER CITY,
-540,Harrisburg,Virginia,VA,#N/A,
-540,Roanoke,Virginia,VA,ROANOKE CITY,
-540,Fredericksburg,Virginia,VA,FREDERICKSBURG CITY,
-540,Blacksburg,Virginia,VA,MONTGOMERY,
-540,Covington,Virginia,VA,COVINGTON CITY,
-540,Salem,Virginia,VA,SALEM,
-541,Corvallis,Oregon,OR,BENTON,
-541,Klamath Falls,Oregon,OR,KLAMATH,
-541,Pendleton,Oregon,OR,UMATILLA,
-541,Roseburg,Oregon,OR,DOUGLAS,
-541,La Grande,Oregon,OR,UNION,
-541,Ontario,Oregon,OR,MALHEUR,
-541,Burns,Oregon,OR,HARNEY,
-541,Bend,Oregon,OR,DESCHUTES,
-541,Eugene,Oregon,OR,LANE,
-541,Medford,Oregon,OR,JACKSON,
-541,Lakeview,Oregon,OR,LAKE,
-559,Fresno,California,CA,FRESNO,
-561,Boca Raton,Florida,FL,PALM BEACH,
-561,Stuart,Florida,FL,MARTIN,
-561,West Palm Beach,Florida,FL,PALM BEACH,
-562,Long Beach,California,CA,LOS ANGELES,
-562,Whittier,California,CA,LOS ANGELES,
-563,Decorah,Iowa,IA,WINNESHIEK,
-563,Dubuque,Iowa,IA,DUBUQUE,
-563,Clinton,Iowa,IA,CLINTON,
-563,Davenport,Iowa,IA,SCOTT,
-570,Scranton,Pennsylvania,PA,LACKAWANNA,
-570,Wilkes-Barre,Pennsylvania,PA,#N/A,
-570,Welliamsport,Pennsylvania,PA,#N/A,
-571,Alexandria,Virginia,VA,ALEXANDRIA CITY,
-571,Arlington,Virginia,VA,ARLINGTON,
-571,Fairfax,Virginia,VA,FAIRFAX CITY,
-571,Falls Church,Virginia,VA,FALLS CHURCH CITY,
-571,Leesburg,Virginia,VA,LOUDOUN,
-571,McLean,Virginia,VA,#N/A,
-573,Cape Girardeau,Missouri,MO,CAPE GIRARDEAU,
-573,Fulton,Missouri,MO,CALLAWAY,
-573,Columbia,Missouri,MO,BOONE,
-573,Hannibal,Missouri,MO,MARION,
-573,Jefferson City,Missouri,MO,COLE,
-573,Farmington,Missouri,MO,SAINT FRANCOIS,
-573,Charleston,Missouri,MO,MISSISSIPPI,
-573,Poplar Bluff,Missouri,MO,BUTLER,
-573,Mexico,Missouri,MO,AUDRAIN,
-580,Guymon,Oklahoma,OK,TEXAS,
-580,Woodward,Oklahoma,OK,WOODWARD,
-580,Enid,Oklahoma,OK,GARFIELD,
-580,Elk City,Oklahoma,OK,BECKHAM,
-580,Lawton,Oklahoma,OK,COMANCHE,
-580,Ardmore,Oklahoma,OK,CARTER,
-580,Hugo,Oklahoma,OK,CHOCTAW,
-585,Rochester,New York,NY,MONROE,
-585,Wellsville,New York,NY,ALLEGANY,
-586,Warren,Michigan,MI,MACOMB,
-601,Natchez,Mississippi,MS,ADAMS,
-601,Jackson,Mississippi,MS,HINDS,
-601,Mc Comb,Mississippi,MS,#N/A,
-601,Meridian,Mississippi,MS,LAUDERDALE,
-601,Hattlesburg,Mississippi,MS,#N/A,
-602,Phoenix,Arizona,AZ,MARICOPA,
-603,Berlin,New Hampshire,NH,COOS,
-603,Lebanon,New Hampshire,NH,GRAFTON,
-603,Laconia,New Hampshire,NH,BELKNAP,
-603,Concord,New Hampshire,NH,MERRIMACK,
-603,Portsmouth,New Hampshire,NH,ROCKINGHAM,
-603,Manchester,New Hampshire,NH,HILLSBOROUGH,
-603,Keene,New Hampshire,NH,CHESHIRE,
-604,Vancouver,British Columbia,BC,#N/A,
-604,Chilliwack,British Columbia,BC,#N/A,
-604,Hope,British Columbia,BC,#N/A,
-604,Powell River,British Columbia,BC,#N/A,
-604,Squamish,British Columbia,BC,#N/A,
-605,Reva,South Dakota,SD,HARDING,
-605,Rapid City,South Dakota,SD,PENNINGTON,
-605,Hot Springs,South Dakota,SD,FALL RIVER,
-605,Hobridge,South Dakota,SD,#N/A,
-605,Pierre,South Dakota,SD,HUGHES,
-605,Winner,South Dakota,SD,TRIPP,
-605,Aberdeen,South Dakota,SD,BROWN,
-605,Watertown,South Dakota,SD,CODINGTON,
-605,Sioux Falls,South Dakota,SD,MINNEHAHA,
-605,Vermillion,South Dakota,SD,CLAY,
-606,Morehead,Kentucky,KY,ROWAN,
-606,London,Kentucky,KY,LAUREL,
-606,Ashland,Kentucky,KY,BOYD,
-606,Pikeville,Kentucky,KY,PIKE,
-607,Birmingham,New York,NY,#N/A,
-607,Elmira,New York,NY,CHEMUNG,
-608,Beloit,Wisconsin,WI,ROCK,
-608,Madison,Wisconsin,WI,DANE,
-608,Jamesville,Wisconsin,WI,#N/A,
-608,Platteville,Wisconsin,WI,GRANT,
-608,La Crosse,Wisconsin,WI,LA CROSSE,
-609,Trenton,New Jersey,NJ,MERCER,
-609,Brown Mills,New Jersey,NJ,#N/A,
-609,Atlantic City,New Jersey,NJ,ATLANTIC,
-609,Princeton,New Jersey,NJ,MERCER,
-610,Allentown,Pennsylvania,PA,LEHIGH,
-610,King of Prussia,Pennsylvania,PA,MONTGOMERY,
-610,Reading,Pennsylvania,PA,BERKS,
-610,Bethlehem,Pennsylvania,PA,NORTHAMPTON,
-610,Norristown,Pennsylvania,PA,MONTGOMERY,
-610,West Chester,Pennsylvania,PA,CHESTER,
-612,Bloomington,Minnesota,MN,#N/A,
-612,Brooklyn Park,Minnesota,MN,#N/A,
-612,Edina,Minnesota,MN,#N/A,
-612,Minneapolis,Minnesota,MN,HENNEPIN,
-613,Ottawa,Ontario,ON,#N/A,
-614,Columbus,Ohio,OH,FRANKLIN,
-615,Nashville,Tennessee,TN,DAVIDSON,
-615,Murfreesboro,Tennessee,TN,RUTHERFORD,
-616,Grand Rapids,Michigan,MI,KENT,
-616,Battle Creek,Michigan,MI,CALHOUN,
-616,Kalamazoo,Michigan,MI,KALAMAZOO,
-617,Boston,Massachusetts,MA,SUFFOLK,
-617,Cambridge,Massachusetts,MA,MIDDLESEX,
-617,Winchester,Massachusetts,MA,MIDDLESEX,
-617,Arlington,Massachusetts,MA,MIDDLESEX,
-618,Collinsville,Illinois,IL,MADISON,
-618,Granite City,Illinois,IL,MADISON,
-618,Mount Vernon,Illinois,IL,JEFFERSON,
-618,East Saint Louis,Illinois,IL,SAINT CLAIR,
-618,Carbondale,Illinois,IL,JACKSON,
-619,San Diego,California,CA,SAN DIEGO,
-620,Dodge City,Kansas,KS,FORD,
-620,Great Bend,Kansas,KS,BARTON,
-620,Parsons,Kansas,KS,LABETTE,
-620,Hutchinson,Kansas,KS,RENO,
-620,Emporia,Kansas,KS,LYON,
-623,Buckeye,Arizona,AZ,MARICOPA,
-623,Glendale,Arizona,AZ,MARICOPA,
-626,Pasadena,California,CA,LOS ANGELES,
-630,Aurora,Illinois,IL,DU PAGE,
-630,Hinsdale,Illinois,IL,DU PAGE,
-630,Naperville,Illinois,IL,DU PAGE,
-631,Manorville,New York,NY,SUFFOLK,
-636,Chesterfield,Missiouri,MO,SAINT LOUIS,
-636,Union,Missiouri,MO,FRANKLIN,
-636,Saint Charles,Missouri,MO,SAINT CHARLES,
-641,Mason City,Iowa,IA,CERRO GORDO,
-641,Oskaloosa,Iowa,IA,MAHASKA,
-641,Ottumwa,Iowa,IA,WAPELLO,
-641,Marshalltown,Iowa,IA,MARSHALL,
-641,Crestton,Iowa,IA,#N/A,
-646,New York City,New York,NY,#N/A,
-646,Manhattan,New York,NY,#N/A,
-647,Toronto,Ontario,ON,#N/A,
-649,Caicos Islands,Turks and Caicos Islands,,#N/A,
-649,Grand Turk,Turks and Caicos Islands,,#N/A,
-650,San Mateo,California,CA,SAN MATEO,
-650,Palo Alto,California,CA,SANTA CLARA,
-650,Mountain View,California,CA,SANTA CLARA,
-650,Redwood City,California,CA,SAN MATEO,
-651,Saint Paul,Minnesota,MN,RAMSEY,
-651,Red Wing,Minnesota,MN,GOODHUE,
-651,Lindstrom,Minnesota,MN,CHISAGO,
-660,Maryville,Missouri,MO,NODAWAY,
-660,Trenton,Missouri,MO,GRUNDY,
-660,Macon,Missouri,MO,MACON,
-660,Marshall,Missouri,MO,SALINE,
-660,Sedalia,Missouri,MO,PETTIS,
-661,Bakersfield,California,CA,KERN,
-662,Holly Springs,Mississippi,MS,MARSHALL,
-662,Clarksdale,Mississippi,MS,COAHOMA,
-662,Tupelo,Mississippi,MS,LEE,
-662,Columbus,Mississippi,MS,LOWNDES,
-662,Winona,Mississippi,MS,MONTGOMERY,
-662,Greenville,Mississippi,MS,WASHINGTON,
-664,,Montserrat,,#N/A,
-670,,Mariana Islands,MP,#N/A,
-671,,Guam,GU,#N/A,
-678,Decatur,Georgia,GA,DEKALB,
-678,Atlanta,Georgia,GA,FULTON,
-678,Cedartown,Georgia,GA,POLK,
-678,Gainsville,Georgia,GA,#N/A,
-678,Roswell,Georgia,GA,FULTON,
-678,Marietta,Georgia,GA,COBB,
-678,Griffin,Georgia,GA,SPALDING,
-678,Norcross,Georgia,GA,GWINNETT,
-678,College Park,Georgia,GA,#N/A,
-678,Lawrenceville,Georgia,GA,GWINNETT,
-678,Smyrna,Georgia,GA,COBB,
-682,Fort Worth,Texas,TX,TARRANT,
-682,Arlington,Texas,TX,TARRANT,
-701,Williston,North Dakota,ND,WILLIAMS,
-701,Dickinson,North Dakota,ND,STARK,
-701,Minot,North Dakota,ND,WARD,
-701,Bismarck,North Dakota,ND,BURLEIGH,
-701,Deville Lake,North Dakota,ND,#N/A,
-701,Jamestown,North Dakota,ND,STUTSMAN,
-701,Grand Forks,North Dakota,ND,GRAND FORKS,
-701,Fargo,North Dakota,ND,CASS,
-702,Las Vegas,Nevada,NV,CLARK,
-703,Alexandria,Virginia,VA,ALEXANDRIA CITY,
-703,Arlington,Virginia,VA,ARLINGTON,
-703,Fairfax,Virginia,VA,FAIRFAX CITY,
-703,Falls Church,Virginia,VA,FALLS CHURCH CITY,
-703,Leesburg,Virginia,VA,LOUDOUN,
-703,McLean,Virginia,VA,#N/A,
-704,Charlotte,North Carolina,NC,MECKLENBURG,
-704,Kingstown,North Carolina,NC,#N/A,
-705,Sudbury,Ontario,ON,#N/A,
-705,North Bay,Ontario,ON,#N/A,
-705,Sault Sainte Marie,Ontario,ON,#N/A,
-706,Tocton,Georgia,GA,#N/A,
-706,Athens,Georgia,GA,CLARKE,
-706,Augusta,Georgia,GA,RICHMOND,
-706,Dalton,Georgia,GA,WHITFIELD,
-706,Columbus,Georgia,GA,MUSCOGEE,
-706,La Grange,Georgia,GA,#N/A,
-707,Crescent City,California,CA,DEL NORTE,
-707,Eureka,California,CA,HUMBOLDT,
-707,Napa,California,CA,NAPA,
-707,Petaluma,California,CA,SONOMA,
-707,Santa Rosa,California,CA,SONOMA,
-707,Ukiah,California,CA,MENDOCINO,
-707,Vallejo,California,CA,SOLANO,
-708,Oak Lawn,Illinois,IL,COOK,
-708,Broadview,Illinois,IL,COOK,
-708,Cicero,Illinois,IL,COOK,
-708,Chicago Heights,Illinois,IL,COOK,
-708,Calumet Park,Illinois,IL,#N/A,
-709,Saint John's,Newfoundland,NF,#N/A,
-709,Goose Bay,Newfoundland,NF,#N/A,
-712,Council Bluffs,Iowa,IA,POTTAWATTAMIE,
-712,Sioux City,Iowa,IA,WOODBURY,
-712,Estherville,Iowa,IA,EMMET,
-713,Houston,Texas,TX,HARRIS,
-713,Sugar Land,TX,,#N/A,
-714,Anaheim,California,CA,ORANGE,
-714,Orange,California,CA,ORANGE,
-714,Santa Ana,California,CA,ORANGE,
-714,Huntington Beach,California,CA,ORANGE,
-715,Eau Claire,Wisconsin,WI,EAU CLAIRE,
-715,Wausau,Wisconsin,WI,MARATHON,
-715,Rice Lake,Wisconsin,WI,BARRON,
-715,Rhinelander,Wisconsin,WI,ONEIDA,
-715,Ashland,Wisconsin,WI,ASHLAND,
-716,Buffalo,New York,NY,ERIE,
-716,Jamestown,New York,NY,CHAUTAUQUA,
-716,Niagara Falls,New York,NY,NIAGARA,
-717,Gettysburg,Pennsylvania,PA,ADAMS,
-717,Harrisburg,Pennsylvania,PA,DAUPHIN,
-717,Lancaster,Pennsylvania,PA,LANCASTER,
-717,York,Pennsylvania,PA,YORK,
-717,Hershey,Pennsylvania,PA,DAUPHIN,
-718,New York City,New York,NY,#N/A,
-718,Brooklyn,New York,NY,KINGS,
-718,Queens,New York,NY,#N/A,
-718,Bronx,New York,NY,BRONX,
-718,Staten Island,New York,NY,RICHMOND,
-719,Colorado Springs,Colorado,CO,EL PASO,
-719,Pueblo,Colorado,CO,PUEBLO,
-719,Trinidad,Colorado,CO,LAS ANIMAS,
-719,Burlington,Colorado,CO,KIT CARSON,
-719,Fairplay,Colorado,CO,PARK,
-719,Lamar,Colorado,CO,PROWERS,
-719,South Fork,Colorado,CO,RIO GRANDE,
-720,Boulder,Colorado,CO,BOULDER,
-720,Denver,Colorado,CO,DENVER,
-720,Arvada,Colorado,CO,JEFFERSON,
-720,Aurora,Colorado,CO,ARAPAHOE,
-720,Englewood,Colorado,CO,ARAPAHOE,
-720,Littleton,Colorado,CO,ARAPAHOE,
-720,Longmont,Colorado,CO,BOULDER,
-724,Uniontown,Pennsylvania,PA,FAYETTE,
-724,New Castle,Pennsylvania,PA,LAWRENCE,
-727,Clearwater,Florida,FL,PINELLAS,
-727,Saint Petersburg,Florida,FL,PINELLAS,
-731,Jackson,Tennessee,TN,MADISON,
-731,Union City,Tennessee,TN,OBION,
-732,Asbury Park,New Jersey,NJ,MONMOUTH,
-732,New Brunswick,New Jersey,NJ,MIDDLESEX,
-732,Neptune,New Jersey,NJ,MONMOUTH,
-732,Lakewood,New Jersey,NJ,OCEAN,
-732,New Brunswick,New Jersey,NJ,MIDDLESEX,
-734,Ann Arbor,Michigan,MI,WASHTENAW,
-734,Monroe,Michigan,MI,MONROE,
-740,Cambridge,Ohio,OH,GUERNSEY,
-740,Lancaster,Ohio,OH,FAIRFIELD,
-740,Marietta,Ohio,OH,WASHINGTON,
-740,Jackson,Ohio,OH,JACKSON,
-740,Marion,Ohio,OH,MARION,
-740,Zanesville,Ohio,OH,MUSKINGUM,
-754,Fort Lauderdale,Florida,FL,BROWARD,
-754,Hollywood,Florida,FL,BROWARD,
-754,Pompano Beach,Florida,FL,BROWARD,
-757,Norfolk,Virginia,VA,NORFOLK CITY,
-757,Portsmouth,Virginia,VA,PORTSMOUTH CITY,
-757,Newport News,Virginia,VA,NEWPORT NEWS CITY,
-757,Virginia Beach,Virginia,VA,VIRGINIA BEACH CITY,
-758,,Saint Lucia,,#N/A,
-760,Bishop,California,CA,INYO,
-760,Blythe,California,CA,RIVERSIDE,
-760,Death Valley,California,CA,INYO,
-760,El Centro,California,CA,IMPERIAL,
-760,Ridgecrest,California,CA,KERN,
-760,Indio,California,CA,RIVERSIDE,
-760,Blythe,California,CA,RIVERSIDE,
-760,Palm Springs,California,CA,RIVERSIDE,
-763,Maple Grove,Minnesota,MN,#N/A,
-763,Brookylyn Park,Minnesota,MN,#N/A,
-763,Plymouth,Minnesota,MN,#N/A,
-765,Lafayette,Indiana,IN,TIPPECANOE,
-765,Richmond,Indiana,IN,WAYNE,
-765,Marion,Indiana,IN,GRANT,
-765,Muncie,Indiana,IN,DELAWARE,
-765,Kokomo,Indiana,IN,HOWARD,
-767,,Dominica,,#N/A,
-770,Cedartown,Georgia,GA,POLK,
-770,Gainsville,Georgia,GA,#N/A,
-770,Roswell,Georgia,GA,FULTON,
-770,Marietta,Georgia,GA,COBB,
-770,Griffin,Georgia,GA,SPALDING,
-770,Norcross,Georgia,GA,GWINNETT,
-770,Lawrenceville,Georgia,GA,GWINNETT,
-770,Smyrna,Georgia,GA,COBB,
-773,Chicago,Illinois,IL,COOK,
-774,Worcester,Massachusetts,MA,WORCESTER,
-774,Attleboro,Massachusetts,MA,BRISTOL,
-774,Framingham,Massachusetts,MA,MIDDLESEX,
-774,Hyannis,Massachusetts,MA,BARNSTABLE,
-774,New Bedford,Massachusetts,MA,BRISTOL,
-774,Plymouth,Massachusetts,MA,PLYMOUTH,
-775,Reno,Nevada,NV,WASHOE,
-775,Carson City,Nevada,NV,CARSON CITY,
-775,Elko,Nevada,NV,ELKO,
-775,Pahrump,Nevada,NV,NYE,
-775,Ely,Nevada,NV,WHITE PINE,
-775,Tonopag,Nevada,NV,#N/A,
-778,Vancouver,British Columbia,BC,#N/A,
-780,Edmonton,Alberta,AB,#N/A,
-781,Saugus,Massachusetts,MA,ESSEX,
-781,Lynn,Massachusetts,MA,ESSEX,
-781,Weymouth,Massachusetts,MA,NORFOLK,
-781,Norwood,Massachusetts,MA,NORFOLK,
-784,Bequia,Saint Vincent and Grenadines,,#N/A,
-784,Mustique,Saint Vincent and Grenadines,,#N/A,
-784,Saint Vincent,Saint Vincent and Grenadines,,#N/A,
-785,Colby,Kansas,KS,THOMAS,
-785,Salina,Kansas,KS,SALINE,
-785,Manhattan,Kansas,KS,RILEY,
-785,Topeka,Kansas,KS,SHAWNEE,
-785,Lawrence,Kansas,KS,DOUGLAS,
-786,Hialeah,Florida,FL,MIAMI-DADE,
-786,Coral Gables,Florida,FL,#N/A,
-786,Miami,Florida,FL,MIAMI-DADE,
-786,Miami Beach,Florida,FL,MIAMI-DADE,
-786,Homestead,Florida,FL,MIAMI-DADE,
-787,,Puerto Rico,PR,#N/A,
-801,Salt Lake City,Utah,UT,SALT LAKE,
-801,Ogden,Utah,UT,WEBER,
-801,Provo,Utah,UT,UTAH,
-802,Burlington,Vermont,VT,CHITTENDEN,
-802,Newport,Vermont,VT,ORLEANS,
-802,Saint Johnsbury,Vermont,VT,CALEDONIA,
-802,Montpelier,Vermont,VT,WASHINGTON,
-802,White River Junction,Vermont,VT,WINDSOR,
-802,Rutland,Vermont,VT,RUTLAND,
-802,Brattleboro,Vermont,VT,WINDHAM,
-802,Bennington,Vermont,VT,BENNINGTON,
-803,Columbia,South Carolina,SC,RICHLAND,
-803,Rock Hill,South Carolina,SC,YORK,
-803,Sumter,South Carolina,SC,SUMTER,
-803,Aiken,South Carolina,SC,AIKEN,
-803,Winnsboro,South Carolina,SC,FAIRFIELD,
-804,Richmond,Virginia,VA,RICHMOND CITY,
-805,San Luis Obispo,California,CA,SAN LUIS OBISPO,
-805,Lompoc,California,CA,SANTA BARBARA,
-805,Santa Barbara,California,CA,SANTA BARBARA,
-805,Thousand Oaks,California,CA,VENTURA,
-805,Ventura,California,CA,VENTURA,
-806,Amarillo,Texas,TX,POTTER,
-806,Lubbock,Texas,TX,LUBBOCK,
-807,Thunder Bay,Ontario,ON,#N/A,
-808,Honolulu,Hawaii,HI,HONOLULU,
-809,,Dominican Republic,,#N/A,
-810,Flint,Michigan,MI,GENESEE,
-810,Port Huron,Michigan,MI,SAINT CLAIR,
-812,Bloomington,Indiana,IN,MONROE,
-812,Evansville,Indiana,IN,VANDERBURGH,
-812,Terra Haute,Indiana,IN,#N/A,
-812,New Albany,Indiana,IN,FLOYD,
-813,Tampa,Florida,FL,HILLSBOROUGH,
-814,Altoona,Pennsylvania,PA,BLAIR,
-814,State College,Pennsylvania,PA,CENTRE,
-814,Erie,Pennsylvania,PA,ERIE,
-814,Warren,Pennsylvania,PA,WARREN,
-814,Johnstown,Pennsylvania,PA,CAMBRIA,
-815,Rockford,Illinois,IL,WINNEBAGO,
-815,Freeport,Illinois,IL,STEPHENSON,
-815,De Kalb,Illinois,IL,#N/A,
-815,La Salle,Illinois,IL,LA SALLE,
-815,Joliet,Illinois,IL,WILL,
-816,Independence,Missouri,MO,JACKSON,
-816,Kansas City,Missouri,MO,JACKSON,
-816,Saint Joseph,Missouri,MO,BUCHANAN,
-817,Fort Worth,Texas,TX,TARRANT,
-817,Arlington,Texas,TX,TARRANT,
-818,Burbank,California,CA,LOS ANGELES,
-818,Sherman Oaks,California,CA,LOS ANGELES,
-818,Canoga Park,California,CA,LOS ANGELES,
-818,Encino,California,CA,LOS ANGELES,
-818,San Fernando,California,CA,LOS ANGELES,
-818,Glendale,California,CA,LOS ANGELES,
-818,Van Nuys,California,CA,LOS ANGELES,
-819,Sherbrooke,Quebec,PQ,#N/A,
-819,Hull,Quebec,PQ,#N/A,
-819,Kuujjuaq,Quebec,PQ,#N/A,
-819,Trois Rivieres,Quebec,PQ,#N/A,
-828,Asheville,North Carolina,NC,BUNCOMBE,
-828,Morganton,North Carolina,NC,BURKE,
-828,Brewerd,North Carolina,NC,#N/A,
-830,Uvalde,Texas,TX,UVALDE,
-830,Del Rio,Texas,TX,VAL VERDE,
-830,New Braunfels,Texas,TX,COMAL,
-831,Monterey,California,CA,MONTEREY,
-831,Santa Cruz,California,CA,SANTA CRUZ,
-831,Salinas,California,CA,MONTEREY,
-831,San Ardo,California,CA,MONTEREY,
-831,San Juan Bautista,California,CA,SAN BENITO,
-831,Scotts Valley,California,CA,SANTA CRUZ,
-831,Seaside,California,CA,MONTEREY,
-831,Soledad,California,CA,MONTEREY,
-831,Watsonville,California,CA,SANTA CRUZ,
-832,Houston,Texas,TX,HARRIS,
-832,Sugar Land,TX,,#N/A,
-843,Charleston,South Carolina,SC,CHARLESTON,
-843,Florence,South Carolina,SC,FLORENCE,
-843,Hilton Head,South Carolina,SC,#N/A,
-843,Myrtle Beach,South Carolina,SC,HORRY,
-845,Poughkeepsie,New York,NY,DUTCHESS,
-845,Middletown,New York,NY,ORANGE,
-847,Arlington Heights,Illinois,IL,COOK,
-847,Waukegan,Illinois,IL,LAKE,
-847,Des Plaines,Illinois,IL,COOK,
-847,Palatine,Illinois,IL,COOK,
-847,Elk Grove Village,Illinois,IL,COOK,
-847,Northbrook,Illinois,IL,COOK,
-847,Roselle,Illinois,IL,DU PAGE,
-850,Tallahassee,Florida,FL,LEON,
-850,Panama City,Florida,FL,BAY,
-850,Pensacola,Florida,FL,ESCAMBIA,
-850,Apalachicola,Florida,FL,FRANKLIN,
-856,Vineland,New Jersey,NJ,CUMBERLAND,
-856,Cherry Hill,New Jersey,NJ,CAMDEN,
-856,Camden,New Jersey,NJ,CAMDEN,
-857,Boston,Massachusetts,MA,SUFFOLK,
-857,Cambridge,Massachusetts,MA,MIDDLESEX,
-857,Winchester,Massachusetts,MA,MIDDLESEX,
-857,Arlington,Massachusetts,MA,MIDDLESEX,
-858,Solana Beach,California,CA,SAN DIEGO,
-858,La Jolla,California,CA,SAN DIEGO,
-859,Lexington,Kentucky,KY,FAYETTE,
-859,Winchester,Kentucky,KY,CLARK,
-860,Bloomfield,Connecticut,CT,HARTFORD,
-860,Canaan,Connecticut,CT,LITCHFIELD,
-860,Terrington,Connecticut,CT,#N/A,
-860,Hartford,Connecticut,CT,HARTFORD,
-860,Norwich,Connecticut,CT,NEW LONDON,
-860,Putnam District,Connecticut,CT,#N/A,
-860,New Britain,Connecticut,CT,HARTFORD,
-860,New London,Connecticut,CT,NEW LONDON,
-860,Middletown,Connecticut,CT,MIDDLESEX,
-863,Avon Park,Florida,FL,HIGHLANDS,
-863,Bowling Green,Florida,FL,HARDEE,
-863,Clewiston,Florida,FL,HENDRY,
-863,Lakeland,Florida,FL,POLK,
-863,Winter Haven,Florida,FL,POLK,
-864,Anderson,South Carolina,SC,ANDERSON,
-864,Greenville,South Carolina,SC,GREENVILLE,
-864,Spartanburg,South Carolina,SC,SPARTANBURG,
-865,Knoxville,Tennessee,TN,KNOX,
-867,Whitehorse,Yukon,YT,#N/A,
-867,Yellowknife,Northwest Territories,NT,#N/A,
-867,Inuvik,Northwest Territories,NT,#N/A,
-867,Iqaluit,Nunavut,NU,#N/A,
-868,,Trinidad and Tobago,,#N/A,
-869,,Saint Kitts and Nevis,,#N/A,
-870,Mountain Home,Arkansas,AR,BAXTER,
-870,Jonesboro,Arkansas,AR,CRAIGHEAD,
-870,Pine Bluff,Arkansas,AR,JEFFERSON,
-870,Monticello,Arkansas,AR,DREW,
-870,Texarkana,Arkansas,AR,MILLER,
-876,,Jamaica,,#N/A,
-878,New Castle,Pennsylvania,PA,LAWRENCE,
-878,Uniontown,Pennsylvania,PA,FAYETTE,
-901,Memphis,Tennessee,TN,SHELBY,
-902,,Prince Edward Island,PE,#N/A,
-902,Halifax,Nova Scotia,NS,#N/A,
-902,Charlottetown,Nova Scotia,NS,#N/A,
-903,Tyler,Texas,TX,SMITH,
-903,Sherman,Texas,TX,GRAYSON,
-903,Longview,Texas,TX,GREGG,
-903,Paris,Texas,TX,LAMAR,
-903,Texarkana,Texas,TX,BOWIE,
-904,Jacksonville,Florida,FL,DUVAL,
-905,Hamilton,Ontario,ON,#N/A,
-905,Niagara Falls,Ontario,ON,#N/A,
-905,Unionville,Ontario,ON,#N/A,
-905,Woodbridge,Ontario,ON,#N/A,
-905,Hamilton,Ontario,ON,#N/A,
-905,Mississauga,Ontario,ON,#N/A,
-906,Escanaba,Michigan,MI,DELTA,
-906,Marquette,Michigan,MI,MARQUETTE,
-906,Sault Sainte Marie,Michigan,MI,CHIPPEWA,
-906,Ironwood,Michgan,MI,GOGEBIC,
-907,Juneau,Alaska,AK,JUNEAU,
-907,Fairbanks,Alaska,AK,FAIRBANKS NORTH STAR,
-907,Nome,Alaska,AK,NOME,
-907,Anchorage,Alaska,AK,ANCHORAGE,
-907,Kodiak,Alaska,AK,KODIAK ISLAND,
-907,Barrow,Alaska,AK,NORTH SLOPE,
-908,Allentown,New Jersey,NJ,MONMOUTH,
-908,Washington,New Jersey,NJ,WARREN,
-908,Elizabeth,New Jersey,NJ,UNION,
-908,Westfield,New Jersey,NJ,UNION,
-909,Pomona,California,CA,LOS ANGELES,
-909,Ontario,California,CA,SAN BERNARDINO,
-909,Riverside,California,CA,RIVERSIDE,
-909,San Bernardino,California,CA,SAN BERNARDINO,
-909,Temecula,California,CA,RIVERSIDE,
-909,Upland,California,CA,SAN BERNARDINO,
-910,Fayetteville,North Carolina,NC,CUMBERLAND,
-910,Jacksonville,North Carolina,NC,ONSLOW,
-910,Wilmington,North Carolina,NC,NEW HANOVER,
-912,Savannah,Georgia,GA,CHATHAM,
-912,Videlle,Georgia,GA,#N/A,
-912,Brunswick,Georgia,GA,GLYNN,
-912,Waycross,Georgia,GA,WARE,
-913,Kansas City,Kansas,KS,WYANDOTTE,
-913,Overland Park,Kansas,KS,#N/A,
-914,White Plains,New York,NY,WESTCHESTER,
-914,New Rochelle,New York,NY,WESTCHESTER,
-914,Newburgh,New York,NY,ORANGE,
-914,Yonkers,New York,NY,WESTCHESTER,
-914,Ossining,New York,NY,WESTCHESTER,
-915,Abilene,Texas,TX,TAYLOR,
-915,El Paso,Texas,TX,EL PASO,
-915,Alpine,Texas,TX,BREWSTER,
-915,Midland,Texas,TX,MIDLAND,
-915,San Angelo,Texas,TX,TOM GREEN,
-916,Sacramento,California,CA,SACRAMENTO,
-916,Fair Oaks,California,CA,SACRAMENTO,
-917,New York City,New York,NY,#N/A,
-917,Manhattan,New York,NY,#N/A,
-917,Queens,New York,NY,#N/A,
-917,Brooklyn,New York,NY,KINGS,
-917,Bronx,New York,NY,BRONX,
-917,Staten Island,New York,NY,RICHMOND,
-918,Bartlesville,Oklahoma,OK,WASHINGTON,
-918,Broken Arrow,Oklahoma,OK,TULSA,
-918,Muskogee,Oklahoma,OK,MUSKOGEE,
-918,Tulsa,Oklahoma,OK,TULSA,
-918,McAlester,Oklahoma,OK,PITTSBURG,
-919,Durham,North Carolina,NC,DURHAM,
-919,Raleigh,North Carolina,NC,WAKE,
-920,Green Bay,Wisconsin,WI,BROWN,
-920,Oshkosh,Wisconsin,WI,WINNEBAGO,
-920,Sheboygan,Wisconsin,WI,SHEBOYGAN,
-925,Concord,California,CA,CONTRA COSTA,
-925,Livermore,California,CA,ALAMEDA,
-925,San Ramon,California,CA,CONTRA COSTA,
-925,Walnut Creek,California,CA,CONTRA COSTA,
-925,Pleasanton,California,CA,ALAMEDA,
-928,Flagstaff,Arizona,AZ,COCONINO,
-928,Prescott,Arizona,AZ,YAVAPAI,
-928,Yuma,Arizona,AZ,YUMA,
-928,Kingman,Arizona,AZ,MOHAVE,
-931,Clarksville,Tennessee,TN,MONTGOMERY,
-931,Columbia,Tennessee,TN,MAURY,
-931,Manchester,Tennessee,TN,COFFEE,
-931,Cookeville,Tennessee,TN,PUTNAM,
-936,Lufkin,Texas,TX,ANGELINA,
-936,Huntsville,Texas,TX,WALKER,
-937,Dayton,Ohio,OH,MONTGOMERY,
-937,Marysville,Ohio,OH,UNION,
-937,Springfield,Ohio,OH,CLARK,
-937,Hillsboro,Ohio,OH,HIGHLAND,
-937,Camden,Ohio,OH,PREBLE,
-939,,Puerto Rico,PR,#N/A,
-940,Wichita Falls,Texas,TX,WICHITA,
-940,Denton,Texas,TX,DENTON,
-941,Bradenton,Florida,FL,MANATEE,
-941,Fort Myers,Florida,FL,LEE,
-941,Naples,Florida,FL,COLLIER,
-941,Port Charlotte,Florida,FL,CHARLOTTE,
-941,Sarasota,Florida,FL,SARASOTA,
-949,Irvine,California,CA,ORANGE,
-949,Laguna Niguel,California,CA,ORANGE,
-952,Bloomington,Minnesota,MN,#N/A,
-952,Minnetonka,Minnesota,MN,HENNEPIN,
-952,Saint Louis Park,Minnesota,MN,#N/A,
-954,Fort Lauderdale,Florida,FL,BROWARD,
-954,Hollywood,Florida,FL,BROWARD,
-954,Pompano Beach,Florida,FL,BROWARD,
-956,Laredo,Texas,TX,WEBB,
-956,McAllen,Texas,TX,HIDALGO,
-956,Brownsville,Texas,TX,CAMERON,
-970,Aspen,Colorado,CO,PITKIN,
-970,Durango,Colorado,CO,LA PLATA,
-970,Fort Collins,Colorado,CO,LARIMER,
-970,Grand Junction,Colorado,CO,MESA,
-970,Steamboat Springs,Colorado,CO,ROUTT,
-970,Sterling,Colorado,CO,LOGAN,
-970,Greeley,Colorado,CO,WELD,
-970,Loveland,Colorado,CO,LARIMER,
-970,Vail,Colorado,CO,EAGLE,
-971,Portland,Oregon,OR,MULTNOMAH,
-971,Salem,Oregon,OR,MARION,
-971,Hillsboro,Oregon,OR,WASHINGTON,
-972,Dallas,Texas,TX,DALLAS,
-972,Plano,Texas,TX,COLLIN,
-973,Sussex,New Jersey,NJ,SUSSEX,
-973,Paterson,New Jersey,NJ,PASSAIC,
-973,Morristown,New Jersey,NJ,MORRIS,
-973,Newark,New Jersey,NJ,ESSEX,
-978,Fitchburg,Massachusetts,MA,WORCESTER,
-978,Methuen,Massachusetts,MA,ESSEX,
-978,Peabody,Massachusetts,MA,ESSEX,
-978,Lowell,Massachusetts,MA,MIDDLESEX,
-979,Wharton,Texas,TX,WHARTON,
-979,Bryan/College Station,Texas,TX,#N/A,
-980,Charlotte,North Carolina,NC,MECKLENBURG,
-980,Kingstown,North Carolina,NC,#N/A,
-985,Houma,Louisiana,LA,TERREBONNE,
-985,Hammond,Louisiana,LA,TANGIPAHOA,
-985,Pointe ? la Hache,Louisiana,LA,#N/A,
-989,Alpena,Michigan,MI,ALPENA,
-989,Bay City,Michigan,MI,BAY,
-989,Mount Pleasant,Michigan,MI,ISABELLA,
-989,Saginaw,Michigan,MI,SAGINAW,
+205,Birmingham,Alabama,AL,JEFFERSON,01073
+205,Tuscaloosa,Alabama,AL,TUSCALOOSA,01125
+206,Seattle,Washington,WA,KING,48269
+206,Bainbridge Island,Washington,WA,KITSAP,53035
+207,Portland,Maine,ME,CUMBERLAND,17035
+207,Lewiston,Maine,ME,ANDROSCOGGIN,23001
+207,Rumford,Maine,ME,OXFORD,23017
+207,Augusta,Maine,ME,KENNEBEC,23011
+207,Millinocket,Maine,ME,PENOBSCOT,23019
+207,Calais,Maine,ME,WASHINGTON,01129
+207,Presque Isle,Maine,ME,AROOSTOOK,23003
+207,Bangor,Maine,ME,PENOBSCOT,23019
+208,Boise,Idaho,ID,ADA,16001
+208,Coeur D'alene,Idaho,ID,#N/A,#N/A
+208,Lewiston,Idaho,ID,NEZ PERCE,16069
+208,Twin Falls,Idaho,ID,TWIN FALLS,16083
+208,Idaho Falls,Idaho,ID,BONNEVILLE,16019
+208,Pocatello,Idaho,ID,BANNOCK,16005
+209,Merced,California,CA,MERCED,06047
+209,Modesto,California,CA,STANISLAUS,06099
+209,Stockton,California,CA,SAN JOAQUIN,06077
+209,Yosemite,California,CA,#N/A,#N/A
+210,San Antonio,Texas,TX,BEXAR,48029
+210,Alamo,Texas,TX,HIDALGO,35023
+212,New York City,New York,NY,#N/A,#N/A
+212,Manhattan,New York,NY,#N/A,#N/A
+213,Los Angeles,California,CA,LOS ANGELES,06037
+214,Dallas,Texas,TX,DALLAS,01047
+214,Plano,Texas,TX,COLLIN,48085
+215,Philadelphia,Pennsylvania,PA,PHILADELPHIA,42101
+216,Cleveland,Ohio,OH,CUYAHOGA,39035
+216,Euclid,Ohio,OH,CUYAHOGA,39035
+216,Lakewood,Ohio,OH,CUYAHOGA,39035
+217,Champaign,Illinois,IL,CHAMPAIGN,17019
+217,Springfield,Illinois,IL,SANGAMON,17167
+217,Decatur,Illinois,IL,MACON,01087
+218,Duluth,Minnesota,MN,SAINT LOUIS,#N/A
+218,International Falls,Minnesota,MN,KOOCHICHING,27071
+218,Thief River Falls,Minnesota,MN,PENNINGTON,27113
+218,Virginia,Minnesota,MN,SAINT LOUIS,#N/A
+218,Grand Rapids,Minnesota,MN,ITASCA,27061
+218,Brainerd,Minnesota,MN,CROW WING,27035
+219,Gary,Indiana,IN,LAKE,06033
+219,South Bend,Indiana,IN,ST JOSEPH,#N/A
+219,Fort Wayne,Indiana,IN,ALLEN,18003
+219,Hammond,Indiana,IN,LAKE,06033
+219,Warsaw,Indiana,IN,KOSCIUSKO,18085
+225,New Roads,Louisiana,LA,POINTE COUPEE,#N/A
+225,Baton Rouge,Louisiana,LA,EAST BATON ROUGE,#N/A
+228,Gulfport,Mississippi,MS,HARRISON,18061
+228,Biloxi,Mississippi,MS,HARRISON,18061
+228,Pascagoula,Mississippi,MS,JACKSON,01071
+229,Americus,Georgia,GA,SUMTER,01119
+229,Albany,Georgia,GA,DOUGHERTY,13095
+229,Bainbridge,Georgia,GA,DECATUR,13087
+229,Valdosta,Georgia,GA,LOWNDES,01085
+231,Petoskey,Michigan,MI,EMMET,19063
+231,Traverse City,Michigan,MI,GRAND TRAVERSE,26055
+231,Ludington,Michigan,MI,MASON,17125
+231,Muskegon,Michigan,MI,MUSKEGON,26121
+234,Akron,Ohio,OH,SUMMIT,08117
+234,Canton,Ohio,OH,STARK,17175
+234,Youngstown,Ohio,OH,MAHONING,39099
+234,Kent,Ohio,OH,PORTAGE,39133
+240,Hagerstown,Maryland,MD,WASHINGTON,01129
+240,Frederick,Maryland,MD,FREDERICK,24021
+240,Cumberland,Maryland,MD,ALLEGANY,24001
+240,Bethesda,Maryland,MD,MONTGOMERY,01101
+240,Rockville,Maryland,MD,MONTGOMERY,01101
+240,Silver Spring,Maryland,MD,MONTGOMERY,01101
+242,,Bahamas,,#N/A,#N/A
+246,,Barbados,,#N/A,#N/A
+248,Troy,Michigan,MI,OAKLAND,26125
+248,Pontiac,Michigan,MI,OAKLAND,26125
+248,Southfield,Michigan,MI,OAKLAND,26125
+248,Birmingham,Michigan,MI,OAKLAND,26125
+251,Jackson,Alabama,AL,CLARKE,01025
+251,Mobile,Alabama,AL,MOBILE,01097
+252,Greenville,North Carolina,NC,PITT,37147
+252,Cape Hatteras,North Carolina,NC,DARE,37055
+252,Rocky Mount,North Carolina,NC,EDGECOMBE,37065
+252,Kitty Hawk,North Carolina,NC,DARE,37055
+253,Tacoma,Washington,WA,PIERCE,13229
+253,Auburn,Washington,WA,KING,48269
+254,Waco,Texas,TX,MCLENNAN,48309
+254,Killeen,Texas,TX,BELL,21013
+256,Florence,Alabama,AL,LAUDERDALE,01077
+256,Huntsville,Alabama,AL,MADISON,01089
+256,Gadsden,Alabama,AL,ETOWAH,01055
+256,Anniston,Alabama,AL,CALHOUN,01015
+262,West Bend,Wisconsin,WI,WASHINGTON,01129
+262,Racine,Wisconsin,WI,RACINE,55101
+262,Kenosha,Wisconsin,WI,KENOSHA,55059
+262,Waukesha,Wisconsin,WI,WAUKESHA,55133
+267,Philadelphia,Pennsylvania,PA,PHILADELPHIA,42101
+270,Owensboro,Kentucky,KY,DAVIESS,18027
+270,Paducah,Kentucky,KY,MCCRACKEN,21145
+270,Hopkinsville,Kentucky,KY,CHRISTIAN,17021
+270,Bowling Green,Kentucky,KY,WARREN,13301
+276,Abingdon,Virginia,VA,WASHINGTON,01129
+276,Bristol,Virginia,VA,BRISTOL,25005
+276,Wytheville,Virginia,VA,WYTHE,51197
+281,Houston,Texas,TX,HARRIS,13145
+281,Sugar Land,TX,,#N/A,#N/A
+284,Tortola,British Virgin Islands,,#N/A,#N/A
+289,Hamilton,Ontario,ON,#N/A,#N/A
+289,Niagara Falls,Ontario,ON,#N/A,#N/A
+289,Unionville,Ontario,ON,#N/A,#N/A
+289,Woodbridge,Ontario,ON,#N/A,#N/A
+289,Hamilton,Ontario,ON,#N/A,#N/A
+289,Mississauga,Ontario,ON,#N/A,#N/A
+301,Hagerstown,Maryland,MD,WASHINGTON,01129
+301,Frederick,Maryland,MD,FREDERICK,24021
+301,Cumberland,Maryland,MD,ALLEGANY,24001
+301,Bethesda,Maryland,MD,MONTGOMERY,01101
+301,Rockville,Maryland,MD,MONTGOMERY,01101
+301,Silver Spring,Maryland,MD,MONTGOMERY,01101
+302,Dover,Deleware,DE,KENT,10001
+302,Wilmington,Deleware,DE,NEW CASTLE,10003
+302,Middletown,Deleware,DE,NEW CASTLE,10003
+302,Milford,Deleware,DE,SUSSEX,10005
+302,Nassau,Deleware,DE,SUSSEX,10005
+302,Georgetown,Deleware,DE,SUSSEX,10005
+302,Seaford,Deleware,DE,SUSSEX,10005
+303,Boulder,Colorado,CO,BOULDER,08013
+303,Denver,Colorado,CO,DENVER,08031
+303,Arvada,Colorado,CO,JEFFERSON,01073
+303,Aurora,Colorado,CO,ARAPAHOE,08005
+303,Englewood,Colorado,CO,ARAPAHOE,08005
+303,Littleton,Colorado,CO,ARAPAHOE,08005
+303,Longmont,Colorado,CO,BOULDER,08013
+304,Wheeling,West Virginia,WV,OHIO,18115
+304,Morgantown,West Virginia,WV,MONONGALIA,54061
+304,Martinsburg,West Virginia,WV,BERKELEY,45015
+304,Parkersburg,West Virginia,WV,WOOD,39173
+304,Richwood,West Virginia,WV,NICHOLAS,21181
+304,Huntington,West Virginia,WV,CABELL,54011
+304,Charleston,West Virginia,WV,KANAWHA,54039
+304,Beckley,West Virginia,WV,RALEIGH,54081
+304,Bluefield,West Virginia,WV,MERCER,17131
+305,Hialeah,Florida,FL,MIAMI-DADE,12086
+305,Homestead,Florida,FL,MIAMI-DADE,12086
+305,Marathon,Florida,FL,MONROE,01099
+305,Key West,Florida,FL,MONROE,01099
+305,Miami,Florida,FL,MIAMI-DADE,12086
+305,Miami Beach,Florida,FL,MIAMI-DADE,12086
+305,Coral Gables,Florida,FL,#N/A,#N/A
+306,Saskatoon,Saskatchewan,SK,#N/A,#N/A
+306,Regina,Saskatchewan,SK,#N/A,#N/A
+307,Cody,Wyoming,WY,PARK,08093
+307,Sheridan,Wyoming,WY,SHERIDAN,20179
+307,Gillette,Wyoming,WY,CAMPBELL,21037
+307,Jackson,Wyoming,WY,TETON,16081
+307,Riverton,Wyoming,WY,FREMONT,08043
+307,Casper,Wyoming,WY,NATRONA,56025
+307,Green River,Wyoming,WY,SWEETWATER,56037
+307,Evanston,Wyoming,WY,UINTA,56041
+307,Laramie,Wyoming,WY,ALBANY,36001
+307,Cheyenne,Wyoming,WY,LARAMIE,56021
+308,Grand Island,Nebraska,NE,HALL,13139
+308,North Platte,Nebraska,NE,LINCOLN,05079
+308,Scottsbluff,Nebraska,NE,SCOTTS BLUFF,31157
+308,Mc Cook,Nebraska,NE,RED WILLOW,31145
+309,Bloomington,Illinois,IL,MCLEAN,17113
+309,Peoria,Illinois,IL,PEORIA,17143
+309,Moline,Illinois,IL,ROCK ISLAND,17161
+310,Beverly Hills,California,CA,LOS ANGELES,06037
+310,Gardena,California,CA,LOS ANGELES,06037
+310,Malibu,California,CA,LOS ANGELES,06037
+310,Torrance,California,CA,LOS ANGELES,06037
+310,Los Angeles,California,CA,LOS ANGELES,06037
+310,Santa Monica,California,CA,LOS ANGELES,06037
+312,Chicago,Illinois,IL,COOK,13075
+313,Detroit,Michigan,MI,WAYNE,13305
+314,Saint Louis,Missouri,MO,SAINT LOUIS CITY,#N/A
+314,Union,Missouri,MO,FRANKLIN,01059
+314,Saint Peters,Missouri,MO,SAINT CHARLES,#N/A
+315,Syracuse,New York,NY,ONONDAGA,36067
+315,Utica,New York,NY,ONEIDA,16071
+315,Watertown,New York,NY,JEFFERSON,01073
+316,Wichita,Kansas,KS,SEDGWICK,08115
+317,Indianapolis,Indiana,IN,MARION,01093
+318,Alexandria,Louisiana,LA,RAPIDES,#N/A
+318,Monroe,Louisiana,LA,OUACHITA,05103
+318,Shreveport,Louisiana,LA,CADDO,40015
+319,Decorah,Iowa,IA,WINNESHIEK,19191
+319,Waterloo,Iowa,IA,BLACK HAWK,19013
+319,Dubuque,Iowa,IA,DUBUQUE,19061
+319,Cedar Rapids,Iowa,IA,LINN,19113
+319,Clinton,Iowa,IA,CLINTON,17027
+319,Iowa City,Iowa,IA,JOHNSON,05071
+319,Davenport,Iowa,IA,SCOTT,05127
+319,Burlington,Iowa,IA,DES MOINES,19057
+320,Alexandria,Minnesota,MN,DOUGLAS,08035
+320,Hutchinson,Minnesota,MN,MCLEOD,27085
+320,Saint Cloud,Minnesota,MN,STEARNS,27145
+320,Morris,Minnesota,MN,STEVENS,20189
+320,Little Falls,Minnesota,MN,MORRISON,27097
+320,Willmar,Minnesota,MN,KANDIYOHI,27067
+321,Kissimmee,Florida,FL,OSCEOLA,12097
+321,Melbourne,Florida,FL,BREVARD,12009
+321,Orlando,Florida,FL,ORANGE,06059
+321,Cape Canaveral,Florida,FL,BREVARD,12009
+321,Cape Kennedy,Florida,FL,#N/A,#N/A
+323,Beverly Hills,California,CA,LOS ANGELES,06037
+323,Los Angeles,California,CA,LOS ANGELES,06037
+330,Akron,Ohio,OH,SUMMIT,08117
+330,Canton,Ohio,OH,STARK,17175
+330,Youngstown,Ohio,OH,MAHONING,39099
+330,Kent,Ohio,OH,PORTAGE,39133
+334,Auburn,Alabama,AL,LEE,01081
+334,Dothan,Alabama,AL,HOUSTON,01069
+334,Mobile,Alabama,AL,MOBILE,01097
+334,Montgomery,Alabama,AL,MONTGOMERY,01101
+334,Selma,Alabama,AL,DALLAS,01047
+334,Jackson,Alabama,AL,CLARKE,01025
+336,Burlington,North Carolina,NC,ALAMANCE,37001
+336,Winston-Salem,North Carolina,NC,#N/A,#N/A
+336,Asheboro,North Carolina,NC,RANDOLPH,01111
+336,Greensboro,North Carolina,NC,GUILFORD,37081
+336,High Point,North Carolina,NC,GUILFORD,37081
+337,Lake Charles,Louisiana,LA,CALCASIEU,#N/A
+337,Lafayette,Louisiana,LA,LAFAYETTE,05073
+339,Saugus,Massachusetts,MA,ESSEX,25009
+339,Lynn,Massachusetts,MA,ESSEX,25009
+339,Weymouth,Massachusetts,MA,NORFOLK,25021
+339,Norwood,Massachusetts,MA,NORFOLK,25021
+340,Saint Croix,United States Virgin Islands,VI,#N/A,#N/A
+340,Charlotte Amalie,United States Virgin Islands,VI,#N/A,#N/A
+345,,Cayman Islands,,#N/A,#N/A
+347,New York City,New York,NY,#N/A,#N/A
+347,Brooklyn,New York,NY,KINGS,06031
+347,Queens,New York,NY,#N/A,#N/A
+347,Bronx,New York,NY,BRONX,36005
+347,Staten Island,New York,NY,RICHMOND,13245
+351,Fitchburg,Massachusetts,MA,WORCESTER,24047
+351,Methuen,Massachusetts,MA,ESSEX,25009
+351,Peabody,Massachusetts,MA,ESSEX,25009
+351,Lowell,Massachusetts,MA,MIDDLESEX,09007
+352,Gainesville,Florida,FL,ALACHUA,12001
+352,Ocala,Florida,FL,MARION,01093
+360,Bellingham,Washington,WA,WHATCOM,53073
+360,Olympia,Washington,WA,THURSTON,31173
+360,Vancouver,Washington,WA,CLARK,05019
+360,Aberdeen,Washington,WA,GRAYS HARBOR,53027
+360,Port Angeles,Washington,WA,CLALLAM,53009
+360,Bremerton,Washington,WA,KITSAP,53035
+361,Victoria,Texas,TX,VICTORIA,48469
+361,Corpus Christi,Texas,TX,NUECES,48355
+386,Daytona Beach,Florida,FL,VOLUSIA,12127
+401,Providence,Rhode Island,RI,PROVIDENCE,44007
+401,Woonsocket,Rhode Island,RI,PROVIDENCE,44007
+401,Foster,Rhode Island,RI,PROVIDENCE,44007
+401,Cranston,Rhode Island,RI,PROVIDENCE,44007
+401,Warwick,Rhode Island,RI,KENT,10001
+401,Newport,Rhode Island,RI,NEWPORT,44005
+401,Westerly,Rhode Island,RI,WASHINGTON,01129
+402,Valentine,Nebraska,NE,CHERRY,31031
+402,Norfolk,Nebraska,NE,MADISON,01089
+402,Omaha,Nebraska,NE,DOUGLAS,08035
+402,Lincoln,Nebraska,NE,LANCASTER,31109
+402,Hastings,Nebraska,NE,ADAMS,08001
+403,Calgary,Alberta,AB,#N/A,#N/A
+404,Atlanta,Georgia,GA,FULTON,05049
+404,College Park,Georgia,GA,#N/A,#N/A
+404,Decatur,Georgia,GA,DEKALB,01049
+405,Oklahoma City,Oklahoma,OK,OKLAHOMA,40109
+405,Edmond,Oklahoma,OK,OKLAHOMA,40109
+405,Norman,Oklahoma,OK,CLEVELAND,05025
+405,Stillwater,Oklahoma,OK,PAYNE,40119
+406,Billings,Montana,MT,YELLOWSTONE,30111
+406,Kalispell,Montana,MT,FLATHEAD,30029
+406,Missoula,Montana,MT,MISSOULA,30063
+406,Havre,Montana,MT,HILL,30041
+406,Great Falls,Montana,MT,CASCADE,30013
+406,Helena,Montana,MT,LEWIS AND CLARK,30049
+406,Butte,Montana,MT,SILVER BOW,30093
+406,Bozeman,Montana,MT,GALLATIN,17059
+406,Wolf Point,Montana,MT,ROOSEVELT,30085
+406,Miles City,Montana,MT,CUSTER,08027
+406,Billings,Montana,MT,YELLOWSTONE,30111
+407,Kissimmee,Florida,FL,OSCEOLA,12097
+407,Orlando,Florida,FL,ORANGE,06059
+408,San Jose,California,CA,SANTA CLARA,06085
+408,Los Gatos,California,CA,SANTA CLARA,06085
+409,Beaumont,Texas,TX,JEFFERSON,01073
+409,Galveston,Texas,TX,GALVESTON,48167
+410,Baltimore,Maryland,MD,BALTIMORE CITY,24510
+410,Aberdeen,Maryland,MD,HARFORD,24025
+410,Annapolis,Maryland,MD,ANNE ARUNDEL,24003
+410,Cambridge,Maryland,MD,DORCHESTER,24019
+410,Salisbury,Maryland,MD,WICOMICO,24045
+410,Towson,Maryland,MD,BALTIMORE,24005
+412,Pittsburgh,Pennsylvania,PA,ALLEGHENY,42003
+413,Springfield,Massachusetts,MA,HAMPDEN,25013
+413,Pittsfield,Massachusetts,MA,BERKSHIRE,25003
+413,Greenfield,Massachusetts,MA,FRANKLIN,01059
+414,Milwaukee,Wisconsin,WI,MILWAUKEE,55079
+415,San Francisco,California,CA,SAN FRANCISCO,06075
+415,San Rafael,California,CA,MARIN,06041
+415,Novato,California,CA,MARIN,06041
+416,Toronto,Ontario,ON,#N/A,#N/A
+417,Joplin,Missouri,MO,JASPER,13159
+417,Springfield,Missouri,MO,GREENE,01063
+417,West Plains,Missouri,MO,HOWELL,29091
+418,Quebec,Quebec,PQ,#N/A,#N/A
+419,Toledo,Ohio,OH,LUCAS,19117
+419,Sandusky,Ohio,OH,ERIE,36029
+419,Bowling Green,Ohio,OH,WOOD,39173
+419,Bryan,Ohio,OH,WILLIAMS,38105
+419,Lima,Ohio,OH,ALLEN,18003
+419,Mansfield,Ohio,OH,RICHLAND,17159
+423,Chattanooga,Tennessee,TN,HAMILTON,12047
+423,Sweetwater,Tennessee,TN,MONROE,01099
+423,Bristol,Tennessee,TN,SULLIVAN,18153
+423,Johnson City,Tennessee,TN,WASHINGTON,01129
+423,Kingsport,Tennessee,TN,SULLIVAN,18153
+423,Madison,Tennessee,TN,DAVIDSON,37057
+425,Bellevue,Washington,WA,KING,48269
+425,Everett,Washington,WA,SNOHOMISH,53061
+425,Redmond,Washington,WA,KING,48269
+434,Lynchburg,Virginia,VA,LYNCHBURG CITY,51680
+434,Danville,Virginia,VA,DANVILLE CITY,51590
+434,Charlottesville,Virginia,VA,ALBEMARLE,51003
+435,Logan,Utah,UT,CACHE,49005
+435,Moab,Utah,UT,GRAND,08049
+435,Richfield,Utah,UT,SEVIER,05133
+435,Blanding,Utah,UT,SAN JUAN,08111
+435,Saint George,Utah,UT,WASHINGTON,01129
+440,Parma,Ohio,OH,#N/A,#N/A
+440,Elyria,Ohio,OH,LORAIN,39093
+440,Lorain,Ohio,OH,LORAIN,39093
+440,Ashtabula,Ohio,OH,ASHTABULA,39007
+440,Mentor,Ohio,OH,LAKE,06033
+441,,Bermuda,,#N/A,#N/A
+443,Baltimore,Maryland,MD,BALTIMORE CITY,24510
+443,Aberdeen,Maryland,MD,HARFORD,24025
+443,Annapolis,Maryland,MD,ANNE ARUNDEL,24003
+443,Cambridge,Maryland,MD,DORCHESTER,24019
+443,Salisbury,Maryland,MD,WICOMICO,24045
+443,Towson,Maryland,MD,BALTIMORE,24005
+450,Laval,Quebec,PQ,#N/A,#N/A
+450,Longueuil,Quebec,PQ,#N/A,#N/A
+469,Dallas,Texas,TX,DALLAS,01047
+469,Plano,Texas,TX,COLLIN,48085
+473,,Grenada,,#N/A,#N/A
+478,Macon,Georgia,GA,BIBB,01007
+478,Warner Robins,Georgia,GA,HOUSTON,01069
+478,Swainsboro,Georgia,GA,EMANUEL,13107
+480,Mesa,Arizona,AZ,MARICOPA,04013
+480,Chandler,Arizona,AZ,MARICOPA,04013
+480,Tempe,Arizona,AZ,MARICOPA,04013
+480,Scottsdale,Arizona,AZ,MARICOPA,04013
+484,Allentown,Pennsylvania,PA,LEHIGH,42077
+484,King of Prussia,Pennsylvania,PA,MONTGOMERY,01101
+484,Reading,Pennsylvania,PA,BERKS,42011
+484,Bethlehem,Pennsylvania,PA,NORTHAMPTON,37131
+484,Norristown,Pennsylvania,PA,MONTGOMERY,01101
+484,West Chester,Pennsylvania,PA,CHESTER,42029
+501,Fayetteville,Arkansas,AR,WASHINGTON,01129
+501,Fort Smith,Arkansas,AR,SEBASTIAN,05131
+501,Hope,Arkansas,AR,HEMPSTEAD,05057
+501,Hot Springs,Arkansas,AR,#N/A,#N/A
+501,Little Rock,Arkansas,AR,PULASKI,05119
+502,Louisville,Kentucky,KY,JEFFERSON,01073
+502,Frankfurt,Kentucky,KY,#N/A,#N/A
+502,Shelbyville,Kentucky,KY,SHELBY,01117
+503,Astoria,Oregon,OR,CLATSOP,41007
+503,Tillamook,Oregon,OR,TILLAMOOK,41057
+503,Portland,Oregon,OR,MULTNOMAH,41051
+503,Salem,Oregon,OR,MARION,01093
+503,Hillsboro,Oregon,OR,WASHINGTON,01129
+504,New Orleans,Louisiana,LA,ORLEANS,36073
+505,Albuquerque,New Mexico,NM,BERNALILLO,35001
+505,Las Cruces,New Mexico,NM,DONA ANA,#N/A
+505,Los Alamos,New Mexico,NM,LOS ALAMOS,35028
+505,Santa Fe,New Mexico,NM,SANTA FE,35049
+505,Farmington,New Mexico,NM,SAN JUAN,08111
+505,Taos,New Mexico,NM,TAOS,35055
+505,Gallup,New Mexico,NM,MCKINLEY,35031
+505,Roswell,New Mexico,NM,CHAVES,35005
+505,Carlsbad,New Mexico,NM,EDDY,35015
+505,Silver City,New Mexico,NM,GRANT,05053
+506,Fredericton,New Brunswick,NB,#N/A,#N/A
+506,Moncton,New Brunswick,NB,#N/A,#N/A
+507,Rochester,Minnesota,MN,OLMSTED,27109
+507,Mankato,Minnesota,MN,BLUE EARTH,27013
+507,Marshall,Minnesota,MN,LYON,19119
+507,Worthington,Minnesota,MN,NOBLES,27105
+507,Le Sueur,Minnesota,MN,LE SUEUR,27079
+507,Austin,Minnesota,MN,MOWER,27099
+508,Worcester,Massachusetts,MA,WORCESTER,24047
+508,Attleboro,Massachusetts,MA,BRISTOL,25005
+508,Framingham,Massachusetts,MA,MIDDLESEX,09007
+508,Hyannis,Massachusetts,MA,BARNSTABLE,25001
+508,New Bedford,Massachusetts,MA,BRISTOL,25005
+508,Plymouth,Massachusetts,MA,PLYMOUTH,19149
+509,Yakima,Washington,WA,YAKIMA,53077
+509,Spokane,Washington,WA,SPOKANE,53063
+509,Walla Walla,Washington,WA,WALLA WALLA,53071
+509,Pullman,Washington,WA,WHITMAN,53075
+510,Berkeley,California,CA,ALAMEDA,06001
+510,Oakland,California,CA,ALAMEDA,06001
+510,Fremont,California,CA,ALAMEDA,06001
+510,Hayward,California,CA,ALAMEDA,06001
+512,Austin,Texas,TX,TRAVIS,48453
+513,Cincinnati,Ohio,OH,HAMILTON,12047
+513,Middletown,Ohio,OH,BUTLER,01013
+513,Hamilton,Ohio,OH,BUTLER,01013
+514,Montreal,Quebec,PQ,#N/A,#N/A
+515,Des Moines,Iowa,IA,POLK,05113
+515,Fort Dodge,Iowa,IA,WEBSTER,13307
+515,Ames,Iowa,IA,STORY,19169
+516,Plainview,New York,NY,NASSAU,12089
+516,Elmont,New York,NY,NASSAU,12089
+517,Lansing,Michigan,MI,INGHAM,26065
+517,Jackson,Michigan,MI,JACKSON,01071
+518,Albany,New York,NY,ALBANY,36001
+518,Plattsburgh,New York,NY,CLINTON,17027
+518,Saranac Lake,New York,NY,FRANKLIN,01059
+518,Schenectady,New York,NY,SCHENECTADY,36093
+519,London,Ontario,ON,#N/A,#N/A
+519,Windsor,Ontario,ON,#N/A,#N/A
+520,Nogales,Arizona,AZ,SANTA CRUZ,04023
+520,Sierra Vista,Arizona,AZ,COCHISE,04003
+520,Tucson,Arizona,AZ,PIMA,04019
+530,Alturas,California,CA,MODOC,06049
+530,Redding,California,CA,SHASTA,06089
+530,Chico,California,CA,BUTTE,06007
+530,Lake Tahoe,California,CA,#N/A,#N/A
+530,Yreka,California,CA,SISKIYOU,06093
+540,Winchester,Virginia,VA,WINCHESTER CITY,51840
+540,Harrisburg,Virginia,VA,#N/A,#N/A
+540,Roanoke,Virginia,VA,ROANOKE CITY,51770
+540,Fredericksburg,Virginia,VA,FREDERICKSBURG CITY,51630
+540,Blacksburg,Virginia,VA,MONTGOMERY,01101
+540,Covington,Virginia,VA,COVINGTON CITY,#N/A
+540,Salem,Virginia,VA,SALEM,34033
+541,Corvallis,Oregon,OR,BENTON,05007
+541,Klamath Falls,Oregon,OR,KLAMATH,41035
+541,Pendleton,Oregon,OR,UMATILLA,41059
+541,Roseburg,Oregon,OR,DOUGLAS,08035
+541,La Grande,Oregon,OR,UNION,05139
+541,Ontario,Oregon,OR,MALHEUR,41045
+541,Burns,Oregon,OR,HARNEY,41025
+541,Bend,Oregon,OR,DESCHUTES,41017
+541,Eugene,Oregon,OR,LANE,20101
+541,Medford,Oregon,OR,JACKSON,01071
+541,Lakeview,Oregon,OR,LAKE,06033
+559,Fresno,California,CA,FRESNO,06019
+561,Boca Raton,Florida,FL,PALM BEACH,12099
+561,Stuart,Florida,FL,MARTIN,12085
+561,West Palm Beach,Florida,FL,PALM BEACH,12099
+562,Long Beach,California,CA,LOS ANGELES,06037
+562,Whittier,California,CA,LOS ANGELES,06037
+563,Decorah,Iowa,IA,WINNESHIEK,19191
+563,Dubuque,Iowa,IA,DUBUQUE,19061
+563,Clinton,Iowa,IA,CLINTON,17027
+563,Davenport,Iowa,IA,SCOTT,05127
+570,Scranton,Pennsylvania,PA,LACKAWANNA,42069
+570,Wilkes-Barre,Pennsylvania,PA,#N/A,#N/A
+570,Welliamsport,Pennsylvania,PA,#N/A,#N/A
+571,Alexandria,Virginia,VA,ALEXANDRIA CITY,51510
+571,Arlington,Virginia,VA,ARLINGTON,51013
+571,Fairfax,Virginia,VA,FAIRFAX CITY,#N/A
+571,Falls Church,Virginia,VA,FALLS CHURCH CITY,51610
+571,Leesburg,Virginia,VA,LOUDOUN,51107
+571,McLean,Virginia,VA,#N/A,#N/A
+573,Cape Girardeau,Missouri,MO,CAPE GIRARDEAU,29031
+573,Fulton,Missouri,MO,CALLAWAY,29027
+573,Columbia,Missouri,MO,BOONE,05009
+573,Hannibal,Missouri,MO,MARION,01093
+573,Jefferson City,Missouri,MO,COLE,29051
+573,Farmington,Missouri,MO,SAINT FRANCOIS,#N/A
+573,Charleston,Missouri,MO,MISSISSIPPI,05093
+573,Poplar Bluff,Missouri,MO,BUTLER,01013
+573,Mexico,Missouri,MO,AUDRAIN,29007
+580,Guymon,Oklahoma,OK,TEXAS,29215
+580,Woodward,Oklahoma,OK,WOODWARD,40153
+580,Enid,Oklahoma,OK,GARFIELD,08045
+580,Elk City,Oklahoma,OK,BECKHAM,40009
+580,Lawton,Oklahoma,OK,COMANCHE,20033
+580,Ardmore,Oklahoma,OK,CARTER,21043
+580,Hugo,Oklahoma,OK,CHOCTAW,01023
+585,Rochester,New York,NY,MONROE,01099
+585,Wellsville,New York,NY,ALLEGANY,24001
+586,Warren,Michigan,MI,MACOMB,26099
+601,Natchez,Mississippi,MS,ADAMS,08001
+601,Jackson,Mississippi,MS,HINDS,28049
+601,Mc Comb,Mississippi,MS,#N/A,#N/A
+601,Meridian,Mississippi,MS,LAUDERDALE,01077
+601,Hattlesburg,Mississippi,MS,#N/A,#N/A
+602,Phoenix,Arizona,AZ,MARICOPA,04013
+603,Berlin,New Hampshire,NH,COOS,33007
+603,Lebanon,New Hampshire,NH,GRAFTON,33009
+603,Laconia,New Hampshire,NH,BELKNAP,33001
+603,Concord,New Hampshire,NH,MERRIMACK,33013
+603,Portsmouth,New Hampshire,NH,ROCKINGHAM,33015
+603,Manchester,New Hampshire,NH,HILLSBOROUGH,12057
+603,Keene,New Hampshire,NH,CHESHIRE,33005
+604,Vancouver,British Columbia,BC,#N/A,#N/A
+604,Chilliwack,British Columbia,BC,#N/A,#N/A
+604,Hope,British Columbia,BC,#N/A,#N/A
+604,Powell River,British Columbia,BC,#N/A,#N/A
+604,Squamish,British Columbia,BC,#N/A,#N/A
+605,Reva,South Dakota,SD,HARDING,35021
+605,Rapid City,South Dakota,SD,PENNINGTON,27113
+605,Hot Springs,South Dakota,SD,FALL RIVER,46047
+605,Hobridge,South Dakota,SD,#N/A,#N/A
+605,Pierre,South Dakota,SD,HUGHES,40063
+605,Winner,South Dakota,SD,TRIPP,46123
+605,Aberdeen,South Dakota,SD,BROWN,17009
+605,Watertown,South Dakota,SD,CODINGTON,46029
+605,Sioux Falls,South Dakota,SD,MINNEHAHA,46099
+605,Vermillion,South Dakota,SD,CLAY,01027
+606,Morehead,Kentucky,KY,ROWAN,21205
+606,London,Kentucky,KY,LAUREL,21125
+606,Ashland,Kentucky,KY,BOYD,21019
+606,Pikeville,Kentucky,KY,PIKE,01109
+607,Birmingham,New York,NY,#N/A,#N/A
+607,Elmira,New York,NY,CHEMUNG,36015
+608,Beloit,Wisconsin,WI,ROCK,27133
+608,Madison,Wisconsin,WI,DANE,55025
+608,Jamesville,Wisconsin,WI,#N/A,#N/A
+608,Platteville,Wisconsin,WI,GRANT,05053
+608,La Crosse,Wisconsin,WI,LA CROSSE,55063
+609,Trenton,New Jersey,NJ,MERCER,17131
+609,Brown Mills,New Jersey,NJ,#N/A,#N/A
+609,Atlantic City,New Jersey,NJ,ATLANTIC,34001
+609,Princeton,New Jersey,NJ,MERCER,17131
+610,Allentown,Pennsylvania,PA,LEHIGH,42077
+610,King of Prussia,Pennsylvania,PA,MONTGOMERY,01101
+610,Reading,Pennsylvania,PA,BERKS,42011
+610,Bethlehem,Pennsylvania,PA,NORTHAMPTON,37131
+610,Norristown,Pennsylvania,PA,MONTGOMERY,01101
+610,West Chester,Pennsylvania,PA,CHESTER,42029
+612,Bloomington,Minnesota,MN,#N/A,#N/A
+612,Brooklyn Park,Minnesota,MN,#N/A,#N/A
+612,Edina,Minnesota,MN,#N/A,#N/A
+612,Minneapolis,Minnesota,MN,HENNEPIN,27053
+613,Ottawa,Ontario,ON,#N/A,#N/A
+614,Columbus,Ohio,OH,FRANKLIN,01059
+615,Nashville,Tennessee,TN,DAVIDSON,37057
+615,Murfreesboro,Tennessee,TN,RUTHERFORD,37161
+616,Grand Rapids,Michigan,MI,KENT,10001
+616,Battle Creek,Michigan,MI,CALHOUN,01015
+616,Kalamazoo,Michigan,MI,KALAMAZOO,26077
+617,Boston,Massachusetts,MA,SUFFOLK,25025
+617,Cambridge,Massachusetts,MA,MIDDLESEX,09007
+617,Winchester,Massachusetts,MA,MIDDLESEX,09007
+617,Arlington,Massachusetts,MA,MIDDLESEX,09007
+618,Collinsville,Illinois,IL,MADISON,01089
+618,Granite City,Illinois,IL,MADISON,01089
+618,Mount Vernon,Illinois,IL,JEFFERSON,01073
+618,East Saint Louis,Illinois,IL,SAINT CLAIR,#N/A
+618,Carbondale,Illinois,IL,JACKSON,01071
+619,San Diego,California,CA,SAN DIEGO,06073
+620,Dodge City,Kansas,KS,FORD,17053
+620,Great Bend,Kansas,KS,BARTON,20009
+620,Parsons,Kansas,KS,LABETTE,20099
+620,Hutchinson,Kansas,KS,RENO,20155
+620,Emporia,Kansas,KS,LYON,19119
+623,Buckeye,Arizona,AZ,MARICOPA,04013
+623,Glendale,Arizona,AZ,MARICOPA,04013
+626,Pasadena,California,CA,LOS ANGELES,06037
+630,Aurora,Illinois,IL,DU PAGE,#N/A
+630,Hinsdale,Illinois,IL,DU PAGE,#N/A
+630,Naperville,Illinois,IL,DU PAGE,#N/A
+631,Manorville,New York,NY,SUFFOLK,25025
+636,Chesterfield,Missiouri,MO,SAINT LOUIS,#N/A
+636,Union,Missiouri,MO,FRANKLIN,01059
+636,Saint Charles,Missouri,MO,SAINT CHARLES,#N/A
+641,Mason City,Iowa,IA,CERRO GORDO,19033
+641,Oskaloosa,Iowa,IA,MAHASKA,19123
+641,Ottumwa,Iowa,IA,WAPELLO,19179
+641,Marshalltown,Iowa,IA,MARSHALL,01095
+641,Crestton,Iowa,IA,#N/A,#N/A
+646,New York City,New York,NY,#N/A,#N/A
+646,Manhattan,New York,NY,#N/A,#N/A
+647,Toronto,Ontario,ON,#N/A,#N/A
+649,Caicos Islands,Turks and Caicos Islands,,#N/A,#N/A
+649,Grand Turk,Turks and Caicos Islands,,#N/A,#N/A
+650,San Mateo,California,CA,SAN MATEO,06081
+650,Palo Alto,California,CA,SANTA CLARA,06085
+650,Mountain View,California,CA,SANTA CLARA,06085
+650,Redwood City,California,CA,SAN MATEO,06081
+651,Saint Paul,Minnesota,MN,RAMSEY,27123
+651,Red Wing,Minnesota,MN,GOODHUE,27049
+651,Lindstrom,Minnesota,MN,CHISAGO,27025
+660,Maryville,Missouri,MO,NODAWAY,29147
+660,Trenton,Missouri,MO,GRUNDY,17063
+660,Macon,Missouri,MO,MACON,01087
+660,Marshall,Missouri,MO,SALINE,05125
+660,Sedalia,Missouri,MO,PETTIS,29159
+661,Bakersfield,California,CA,KERN,06029
+662,Holly Springs,Mississippi,MS,MARSHALL,01095
+662,Clarksdale,Mississippi,MS,COAHOMA,28027
+662,Tupelo,Mississippi,MS,LEE,01081
+662,Columbus,Mississippi,MS,LOWNDES,01085
+662,Winona,Mississippi,MS,MONTGOMERY,01101
+662,Greenville,Mississippi,MS,WASHINGTON,01129
+664,,Montserrat,,#N/A,#N/A
+670,,Mariana Islands,MP,#N/A,#N/A
+671,,Guam,GU,#N/A,#N/A
+678,Decatur,Georgia,GA,DEKALB,01049
+678,Atlanta,Georgia,GA,FULTON,05049
+678,Cedartown,Georgia,GA,POLK,05113
+678,Gainsville,Georgia,GA,#N/A,#N/A
+678,Roswell,Georgia,GA,FULTON,05049
+678,Marietta,Georgia,GA,COBB,13067
+678,Griffin,Georgia,GA,SPALDING,13255
+678,Norcross,Georgia,GA,GWINNETT,13135
+678,College Park,Georgia,GA,#N/A,#N/A
+678,Lawrenceville,Georgia,GA,GWINNETT,13135
+678,Smyrna,Georgia,GA,COBB,13067
+682,Fort Worth,Texas,TX,TARRANT,48439
+682,Arlington,Texas,TX,TARRANT,48439
+701,Williston,North Dakota,ND,WILLIAMS,38105
+701,Dickinson,North Dakota,ND,STARK,17175
+701,Minot,North Dakota,ND,WARD,38101
+701,Bismarck,North Dakota,ND,BURLEIGH,38015
+701,Deville Lake,North Dakota,ND,#N/A,#N/A
+701,Jamestown,North Dakota,ND,STUTSMAN,38093
+701,Grand Forks,North Dakota,ND,GRAND FORKS,38035
+701,Fargo,North Dakota,ND,CASS,17017
+702,Las Vegas,Nevada,NV,CLARK,05019
+703,Alexandria,Virginia,VA,ALEXANDRIA CITY,51510
+703,Arlington,Virginia,VA,ARLINGTON,51013
+703,Fairfax,Virginia,VA,FAIRFAX CITY,#N/A
+703,Falls Church,Virginia,VA,FALLS CHURCH CITY,51610
+703,Leesburg,Virginia,VA,LOUDOUN,51107
+703,McLean,Virginia,VA,#N/A,#N/A
+704,Charlotte,North Carolina,NC,MECKLENBURG,37119
+704,Kingstown,North Carolina,NC,#N/A,#N/A
+705,Sudbury,Ontario,ON,#N/A,#N/A
+705,North Bay,Ontario,ON,#N/A,#N/A
+705,Sault Sainte Marie,Ontario,ON,#N/A,#N/A
+706,Tocton,Georgia,GA,#N/A,#N/A
+706,Athens,Georgia,GA,CLARKE,01025
+706,Augusta,Georgia,GA,RICHMOND,13245
+706,Dalton,Georgia,GA,WHITFIELD,13313
+706,Columbus,Georgia,GA,MUSCOGEE,13215
+706,La Grange,Georgia,GA,#N/A,#N/A
+707,Crescent City,California,CA,DEL NORTE,06015
+707,Eureka,California,CA,HUMBOLDT,06023
+707,Napa,California,CA,NAPA,06055
+707,Petaluma,California,CA,SONOMA,06097
+707,Santa Rosa,California,CA,SONOMA,06097
+707,Ukiah,California,CA,MENDOCINO,06045
+707,Vallejo,California,CA,SOLANO,06095
+708,Oak Lawn,Illinois,IL,COOK,13075
+708,Broadview,Illinois,IL,COOK,13075
+708,Cicero,Illinois,IL,COOK,13075
+708,Chicago Heights,Illinois,IL,COOK,13075
+708,Calumet Park,Illinois,IL,#N/A,#N/A
+709,Saint John's,Newfoundland,NF,#N/A,#N/A
+709,Goose Bay,Newfoundland,NF,#N/A,#N/A
+712,Council Bluffs,Iowa,IA,POTTAWATTAMIE,19155
+712,Sioux City,Iowa,IA,WOODBURY,19193
+712,Estherville,Iowa,IA,EMMET,19063
+713,Houston,Texas,TX,HARRIS,13145
+713,Sugar Land,TX,,#N/A,#N/A
+714,Anaheim,California,CA,ORANGE,06059
+714,Orange,California,CA,ORANGE,06059
+714,Santa Ana,California,CA,ORANGE,06059
+714,Huntington Beach,California,CA,ORANGE,06059
+715,Eau Claire,Wisconsin,WI,EAU CLAIRE,55035
+715,Wausau,Wisconsin,WI,MARATHON,55073
+715,Rice Lake,Wisconsin,WI,BARRON,55005
+715,Rhinelander,Wisconsin,WI,ONEIDA,16071
+715,Ashland,Wisconsin,WI,ASHLAND,39005
+716,Buffalo,New York,NY,ERIE,36029
+716,Jamestown,New York,NY,CHAUTAUQUA,20019
+716,Niagara Falls,New York,NY,NIAGARA,36063
+717,Gettysburg,Pennsylvania,PA,ADAMS,08001
+717,Harrisburg,Pennsylvania,PA,DAUPHIN,42043
+717,Lancaster,Pennsylvania,PA,LANCASTER,31109
+717,York,Pennsylvania,PA,YORK,23031
+717,Hershey,Pennsylvania,PA,DAUPHIN,42043
+718,New York City,New York,NY,#N/A,#N/A
+718,Brooklyn,New York,NY,KINGS,06031
+718,Queens,New York,NY,#N/A,#N/A
+718,Bronx,New York,NY,BRONX,36005
+718,Staten Island,New York,NY,RICHMOND,13245
+719,Colorado Springs,Colorado,CO,EL PASO,08041
+719,Pueblo,Colorado,CO,PUEBLO,08101
+719,Trinidad,Colorado,CO,LAS ANIMAS,08071
+719,Burlington,Colorado,CO,KIT CARSON,08063
+719,Fairplay,Colorado,CO,PARK,08093
+719,Lamar,Colorado,CO,PROWERS,08099
+719,South Fork,Colorado,CO,RIO GRANDE,08105
+720,Boulder,Colorado,CO,BOULDER,08013
+720,Denver,Colorado,CO,DENVER,08031
+720,Arvada,Colorado,CO,JEFFERSON,01073
+720,Aurora,Colorado,CO,ARAPAHOE,08005
+720,Englewood,Colorado,CO,ARAPAHOE,08005
+720,Littleton,Colorado,CO,ARAPAHOE,08005
+720,Longmont,Colorado,CO,BOULDER,08013
+724,Uniontown,Pennsylvania,PA,FAYETTE,01057
+724,New Castle,Pennsylvania,PA,LAWRENCE,01079
+727,Clearwater,Florida,FL,PINELLAS,12103
+727,Saint Petersburg,Florida,FL,PINELLAS,12103
+731,Jackson,Tennessee,TN,MADISON,01089
+731,Union City,Tennessee,TN,OBION,47131
+732,Asbury Park,New Jersey,NJ,MONMOUTH,34025
+732,New Brunswick,New Jersey,NJ,MIDDLESEX,09007
+732,Neptune,New Jersey,NJ,MONMOUTH,34025
+732,Lakewood,New Jersey,NJ,OCEAN,34029
+732,New Brunswick,New Jersey,NJ,MIDDLESEX,09007
+734,Ann Arbor,Michigan,MI,WASHTENAW,26161
+734,Monroe,Michigan,MI,MONROE,01099
+740,Cambridge,Ohio,OH,GUERNSEY,39059
+740,Lancaster,Ohio,OH,FAIRFIELD,09001
+740,Marietta,Ohio,OH,WASHINGTON,01129
+740,Jackson,Ohio,OH,JACKSON,01071
+740,Marion,Ohio,OH,MARION,01093
+740,Zanesville,Ohio,OH,MUSKINGUM,39119
+754,Fort Lauderdale,Florida,FL,BROWARD,12011
+754,Hollywood,Florida,FL,BROWARD,12011
+754,Pompano Beach,Florida,FL,BROWARD,12011
+757,Norfolk,Virginia,VA,NORFOLK CITY,51710
+757,Portsmouth,Virginia,VA,PORTSMOUTH CITY,51740
+757,Newport News,Virginia,VA,NEWPORT NEWS CITY,51700
+757,Virginia Beach,Virginia,VA,VIRGINIA BEACH CITY,51810
+758,,Saint Lucia,,#N/A,#N/A
+760,Bishop,California,CA,INYO,06027
+760,Blythe,California,CA,RIVERSIDE,06065
+760,Death Valley,California,CA,INYO,06027
+760,El Centro,California,CA,IMPERIAL,06025
+760,Ridgecrest,California,CA,KERN,06029
+760,Indio,California,CA,RIVERSIDE,06065
+760,Blythe,California,CA,RIVERSIDE,06065
+760,Palm Springs,California,CA,RIVERSIDE,06065
+763,Maple Grove,Minnesota,MN,#N/A,#N/A
+763,Brookylyn Park,Minnesota,MN,#N/A,#N/A
+763,Plymouth,Minnesota,MN,#N/A,#N/A
+765,Lafayette,Indiana,IN,TIPPECANOE,18157
+765,Richmond,Indiana,IN,WAYNE,13305
+765,Marion,Indiana,IN,GRANT,05053
+765,Muncie,Indiana,IN,DELAWARE,18035
+765,Kokomo,Indiana,IN,HOWARD,05061
+767,,Dominica,,#N/A,#N/A
+770,Cedartown,Georgia,GA,POLK,05113
+770,Gainsville,Georgia,GA,#N/A,#N/A
+770,Roswell,Georgia,GA,FULTON,05049
+770,Marietta,Georgia,GA,COBB,13067
+770,Griffin,Georgia,GA,SPALDING,13255
+770,Norcross,Georgia,GA,GWINNETT,13135
+770,Lawrenceville,Georgia,GA,GWINNETT,13135
+770,Smyrna,Georgia,GA,COBB,13067
+773,Chicago,Illinois,IL,COOK,13075
+774,Worcester,Massachusetts,MA,WORCESTER,24047
+774,Attleboro,Massachusetts,MA,BRISTOL,25005
+774,Framingham,Massachusetts,MA,MIDDLESEX,09007
+774,Hyannis,Massachusetts,MA,BARNSTABLE,25001
+774,New Bedford,Massachusetts,MA,BRISTOL,25005
+774,Plymouth,Massachusetts,MA,PLYMOUTH,19149
+775,Reno,Nevada,NV,WASHOE,32031
+775,Carson City,Nevada,NV,CARSON CITY,32510
+775,Elko,Nevada,NV,ELKO,32007
+775,Pahrump,Nevada,NV,NYE,32023
+775,Ely,Nevada,NV,WHITE PINE,32033
+775,Tonopag,Nevada,NV,#N/A,#N/A
+778,Vancouver,British Columbia,BC,#N/A,#N/A
+780,Edmonton,Alberta,AB,#N/A,#N/A
+781,Saugus,Massachusetts,MA,ESSEX,25009
+781,Lynn,Massachusetts,MA,ESSEX,25009
+781,Weymouth,Massachusetts,MA,NORFOLK,25021
+781,Norwood,Massachusetts,MA,NORFOLK,25021
+784,Bequia,Saint Vincent and Grenadines,,#N/A,#N/A
+784,Mustique,Saint Vincent and Grenadines,,#N/A,#N/A
+784,Saint Vincent,Saint Vincent and Grenadines,,#N/A,#N/A
+785,Colby,Kansas,KS,THOMAS,13275
+785,Salina,Kansas,KS,SALINE,05125
+785,Manhattan,Kansas,KS,RILEY,20161
+785,Topeka,Kansas,KS,SHAWNEE,20177
+785,Lawrence,Kansas,KS,DOUGLAS,08035
+786,Hialeah,Florida,FL,MIAMI-DADE,12086
+786,Coral Gables,Florida,FL,#N/A,#N/A
+786,Miami,Florida,FL,MIAMI-DADE,12086
+786,Miami Beach,Florida,FL,MIAMI-DADE,12086
+786,Homestead,Florida,FL,MIAMI-DADE,12086
+787,,Puerto Rico,PR,#N/A,#N/A
+801,Salt Lake City,Utah,UT,SALT LAKE,49035
+801,Ogden,Utah,UT,WEBER,49057
+801,Provo,Utah,UT,UTAH,49049
+802,Burlington,Vermont,VT,CHITTENDEN,50007
+802,Newport,Vermont,VT,ORLEANS,36073
+802,Saint Johnsbury,Vermont,VT,CALEDONIA,50005
+802,Montpelier,Vermont,VT,WASHINGTON,01129
+802,White River Junction,Vermont,VT,WINDSOR,50027
+802,Rutland,Vermont,VT,RUTLAND,50021
+802,Brattleboro,Vermont,VT,WINDHAM,09015
+802,Bennington,Vermont,VT,BENNINGTON,50003
+803,Columbia,South Carolina,SC,RICHLAND,17159
+803,Rock Hill,South Carolina,SC,YORK,23031
+803,Sumter,South Carolina,SC,SUMTER,01119
+803,Aiken,South Carolina,SC,AIKEN,45003
+803,Winnsboro,South Carolina,SC,FAIRFIELD,09001
+804,Richmond,Virginia,VA,RICHMOND CITY,51760
+805,San Luis Obispo,California,CA,SAN LUIS OBISPO,06079
+805,Lompoc,California,CA,SANTA BARBARA,06083
+805,Santa Barbara,California,CA,SANTA BARBARA,06083
+805,Thousand Oaks,California,CA,VENTURA,06111
+805,Ventura,California,CA,VENTURA,06111
+806,Amarillo,Texas,TX,POTTER,42105
+806,Lubbock,Texas,TX,LUBBOCK,48303
+807,Thunder Bay,Ontario,ON,#N/A,#N/A
+808,Honolulu,Hawaii,HI,HONOLULU,15003
+809,,Dominican Republic,,#N/A,#N/A
+810,Flint,Michigan,MI,GENESEE,26049
+810,Port Huron,Michigan,MI,SAINT CLAIR,#N/A
+812,Bloomington,Indiana,IN,MONROE,01099
+812,Evansville,Indiana,IN,VANDERBURGH,18163
+812,Terra Haute,Indiana,IN,#N/A,#N/A
+812,New Albany,Indiana,IN,FLOYD,13115
+813,Tampa,Florida,FL,HILLSBOROUGH,12057
+814,Altoona,Pennsylvania,PA,BLAIR,42013
+814,State College,Pennsylvania,PA,CENTRE,42027
+814,Erie,Pennsylvania,PA,ERIE,36029
+814,Warren,Pennsylvania,PA,WARREN,13301
+814,Johnstown,Pennsylvania,PA,CAMBRIA,42021
+815,Rockford,Illinois,IL,WINNEBAGO,17201
+815,Freeport,Illinois,IL,STEPHENSON,17177
+815,De Kalb,Illinois,IL,#N/A,#N/A
+815,La Salle,Illinois,IL,LA SALLE,48283
+815,Joliet,Illinois,IL,WILL,17197
+816,Independence,Missouri,MO,JACKSON,01071
+816,Kansas City,Missouri,MO,JACKSON,01071
+816,Saint Joseph,Missouri,MO,BUCHANAN,19019
+817,Fort Worth,Texas,TX,TARRANT,48439
+817,Arlington,Texas,TX,TARRANT,48439
+818,Burbank,California,CA,LOS ANGELES,06037
+818,Sherman Oaks,California,CA,LOS ANGELES,06037
+818,Canoga Park,California,CA,LOS ANGELES,06037
+818,Encino,California,CA,LOS ANGELES,06037
+818,San Fernando,California,CA,LOS ANGELES,06037
+818,Glendale,California,CA,LOS ANGELES,06037
+818,Van Nuys,California,CA,LOS ANGELES,06037
+819,Sherbrooke,Quebec,PQ,#N/A,#N/A
+819,Hull,Quebec,PQ,#N/A,#N/A
+819,Kuujjuaq,Quebec,PQ,#N/A,#N/A
+819,Trois Rivieres,Quebec,PQ,#N/A,#N/A
+828,Asheville,North Carolina,NC,BUNCOMBE,37021
+828,Morganton,North Carolina,NC,BURKE,13033
+828,Brewerd,North Carolina,NC,#N/A,#N/A
+830,Uvalde,Texas,TX,UVALDE,48463
+830,Del Rio,Texas,TX,VAL VERDE,48465
+830,New Braunfels,Texas,TX,COMAL,48091
+831,Monterey,California,CA,MONTEREY,06053
+831,Santa Cruz,California,CA,SANTA CRUZ,04023
+831,Salinas,California,CA,MONTEREY,06053
+831,San Ardo,California,CA,MONTEREY,06053
+831,San Juan Bautista,California,CA,SAN BENITO,06069
+831,Scotts Valley,California,CA,SANTA CRUZ,04023
+831,Seaside,California,CA,MONTEREY,06053
+831,Soledad,California,CA,MONTEREY,06053
+831,Watsonville,California,CA,SANTA CRUZ,04023
+832,Houston,Texas,TX,HARRIS,13145
+832,Sugar Land,TX,,#N/A,#N/A
+843,Charleston,South Carolina,SC,CHARLESTON,45019
+843,Florence,South Carolina,SC,FLORENCE,45041
+843,Hilton Head,South Carolina,SC,#N/A,#N/A
+843,Myrtle Beach,South Carolina,SC,HORRY,45051
+845,Poughkeepsie,New York,NY,DUTCHESS,36027
+845,Middletown,New York,NY,ORANGE,06059
+847,Arlington Heights,Illinois,IL,COOK,13075
+847,Waukegan,Illinois,IL,LAKE,06033
+847,Des Plaines,Illinois,IL,COOK,13075
+847,Palatine,Illinois,IL,COOK,13075
+847,Elk Grove Village,Illinois,IL,COOK,13075
+847,Northbrook,Illinois,IL,COOK,13075
+847,Roselle,Illinois,IL,DU PAGE,#N/A
+850,Tallahassee,Florida,FL,LEON,12073
+850,Panama City,Florida,FL,BAY,12005
+850,Pensacola,Florida,FL,ESCAMBIA,01053
+850,Apalachicola,Florida,FL,FRANKLIN,01059
+856,Vineland,New Jersey,NJ,CUMBERLAND,17035
+856,Cherry Hill,New Jersey,NJ,CAMDEN,13039
+856,Camden,New Jersey,NJ,CAMDEN,13039
+857,Boston,Massachusetts,MA,SUFFOLK,25025
+857,Cambridge,Massachusetts,MA,MIDDLESEX,09007
+857,Winchester,Massachusetts,MA,MIDDLESEX,09007
+857,Arlington,Massachusetts,MA,MIDDLESEX,09007
+858,Solana Beach,California,CA,SAN DIEGO,06073
+858,La Jolla,California,CA,SAN DIEGO,06073
+859,Lexington,Kentucky,KY,FAYETTE,01057
+859,Winchester,Kentucky,KY,CLARK,05019
+860,Bloomfield,Connecticut,CT,HARTFORD,09003
+860,Canaan,Connecticut,CT,LITCHFIELD,09005
+860,Terrington,Connecticut,CT,#N/A,#N/A
+860,Hartford,Connecticut,CT,HARTFORD,09003
+860,Norwich,Connecticut,CT,NEW LONDON,09011
+860,Putnam District,Connecticut,CT,#N/A,#N/A
+860,New Britain,Connecticut,CT,HARTFORD,09003
+860,New London,Connecticut,CT,NEW LONDON,09011
+860,Middletown,Connecticut,CT,MIDDLESEX,09007
+863,Avon Park,Florida,FL,HIGHLANDS,12055
+863,Bowling Green,Florida,FL,HARDEE,12049
+863,Clewiston,Florida,FL,HENDRY,12051
+863,Lakeland,Florida,FL,POLK,05113
+863,Winter Haven,Florida,FL,POLK,05113
+864,Anderson,South Carolina,SC,ANDERSON,20003
+864,Greenville,South Carolina,SC,GREENVILLE,45045
+864,Spartanburg,South Carolina,SC,SPARTANBURG,45083
+865,Knoxville,Tennessee,TN,KNOX,17095
+867,Whitehorse,Yukon,YT,#N/A,#N/A
+867,Yellowknife,Northwest Territories,NT,#N/A,#N/A
+867,Inuvik,Northwest Territories,NT,#N/A,#N/A
+867,Iqaluit,Nunavut,NU,#N/A,#N/A
+868,,Trinidad and Tobago,,#N/A,#N/A
+869,,Saint Kitts and Nevis,,#N/A,#N/A
+870,Mountain Home,Arkansas,AR,BAXTER,05005
+870,Jonesboro,Arkansas,AR,CRAIGHEAD,05031
+870,Pine Bluff,Arkansas,AR,JEFFERSON,01073
+870,Monticello,Arkansas,AR,DREW,05043
+870,Texarkana,Arkansas,AR,MILLER,05091
+876,,Jamaica,,#N/A,#N/A
+878,New Castle,Pennsylvania,PA,LAWRENCE,01079
+878,Uniontown,Pennsylvania,PA,FAYETTE,01057
+901,Memphis,Tennessee,TN,SHELBY,01117
+902,,Prince Edward Island,PE,#N/A,#N/A
+902,Halifax,Nova Scotia,NS,#N/A,#N/A
+902,Charlottetown,Nova Scotia,NS,#N/A,#N/A
+903,Tyler,Texas,TX,SMITH,20183
+903,Sherman,Texas,TX,GRAYSON,21085
+903,Longview,Texas,TX,GREGG,48183
+903,Paris,Texas,TX,LAMAR,01075
+903,Texarkana,Texas,TX,BOWIE,48037
+904,Jacksonville,Florida,FL,DUVAL,12031
+905,Hamilton,Ontario,ON,#N/A,#N/A
+905,Niagara Falls,Ontario,ON,#N/A,#N/A
+905,Unionville,Ontario,ON,#N/A,#N/A
+905,Woodbridge,Ontario,ON,#N/A,#N/A
+905,Hamilton,Ontario,ON,#N/A,#N/A
+905,Mississauga,Ontario,ON,#N/A,#N/A
+906,Escanaba,Michigan,MI,DELTA,08029
+906,Marquette,Michigan,MI,MARQUETTE,26103
+906,Sault Sainte Marie,Michigan,MI,CHIPPEWA,26033
+906,Ironwood,Michgan,MI,GOGEBIC,26053
+907,Juneau,Alaska,AK,JUNEAU,55057
+907,Fairbanks,Alaska,AK,FAIRBANKS NORTH STAR,#N/A
+907,Nome,Alaska,AK,NOME,#N/A
+907,Anchorage,Alaska,AK,ANCHORAGE,#N/A
+907,Kodiak,Alaska,AK,KODIAK ISLAND,#N/A
+907,Barrow,Alaska,AK,NORTH SLOPE,#N/A
+908,Allentown,New Jersey,NJ,MONMOUTH,34025
+908,Washington,New Jersey,NJ,WARREN,13301
+908,Elizabeth,New Jersey,NJ,UNION,05139
+908,Westfield,New Jersey,NJ,UNION,05139
+909,Pomona,California,CA,LOS ANGELES,06037
+909,Ontario,California,CA,SAN BERNARDINO,06071
+909,Riverside,California,CA,RIVERSIDE,06065
+909,San Bernardino,California,CA,SAN BERNARDINO,06071
+909,Temecula,California,CA,RIVERSIDE,06065
+909,Upland,California,CA,SAN BERNARDINO,06071
+910,Fayetteville,North Carolina,NC,CUMBERLAND,17035
+910,Jacksonville,North Carolina,NC,ONSLOW,37133
+910,Wilmington,North Carolina,NC,NEW HANOVER,37129
+912,Savannah,Georgia,GA,CHATHAM,13051
+912,Videlle,Georgia,GA,#N/A,#N/A
+912,Brunswick,Georgia,GA,GLYNN,13127
+912,Waycross,Georgia,GA,WARE,13299
+913,Kansas City,Kansas,KS,WYANDOTTE,20209
+913,Overland Park,Kansas,KS,#N/A,#N/A
+914,White Plains,New York,NY,WESTCHESTER,36119
+914,New Rochelle,New York,NY,WESTCHESTER,36119
+914,Newburgh,New York,NY,ORANGE,06059
+914,Yonkers,New York,NY,WESTCHESTER,36119
+914,Ossining,New York,NY,WESTCHESTER,36119
+915,Abilene,Texas,TX,TAYLOR,12123
+915,El Paso,Texas,TX,EL PASO,08041
+915,Alpine,Texas,TX,BREWSTER,48043
+915,Midland,Texas,TX,MIDLAND,26111
+915,San Angelo,Texas,TX,TOM GREEN,48451
+916,Sacramento,California,CA,SACRAMENTO,06067
+916,Fair Oaks,California,CA,SACRAMENTO,06067
+917,New York City,New York,NY,#N/A,#N/A
+917,Manhattan,New York,NY,#N/A,#N/A
+917,Queens,New York,NY,#N/A,#N/A
+917,Brooklyn,New York,NY,KINGS,06031
+917,Bronx,New York,NY,BRONX,36005
+917,Staten Island,New York,NY,RICHMOND,13245
+918,Bartlesville,Oklahoma,OK,WASHINGTON,01129
+918,Broken Arrow,Oklahoma,OK,TULSA,40143
+918,Muskogee,Oklahoma,OK,MUSKOGEE,40101
+918,Tulsa,Oklahoma,OK,TULSA,40143
+918,McAlester,Oklahoma,OK,PITTSBURG,40121
+919,Durham,North Carolina,NC,DURHAM,37063
+919,Raleigh,North Carolina,NC,WAKE,37183
+920,Green Bay,Wisconsin,WI,BROWN,17009
+920,Oshkosh,Wisconsin,WI,WINNEBAGO,17201
+920,Sheboygan,Wisconsin,WI,SHEBOYGAN,55117
+925,Concord,California,CA,CONTRA COSTA,06013
+925,Livermore,California,CA,ALAMEDA,06001
+925,San Ramon,California,CA,CONTRA COSTA,06013
+925,Walnut Creek,California,CA,CONTRA COSTA,06013
+925,Pleasanton,California,CA,ALAMEDA,06001
+928,Flagstaff,Arizona,AZ,COCONINO,04005
+928,Prescott,Arizona,AZ,YAVAPAI,04025
+928,Yuma,Arizona,AZ,YUMA,04027
+928,Kingman,Arizona,AZ,MOHAVE,04015
+931,Clarksville,Tennessee,TN,MONTGOMERY,01101
+931,Columbia,Tennessee,TN,MAURY,47119
+931,Manchester,Tennessee,TN,COFFEE,01031
+931,Cookeville,Tennessee,TN,PUTNAM,12107
+936,Lufkin,Texas,TX,ANGELINA,48005
+936,Huntsville,Texas,TX,WALKER,01127
+937,Dayton,Ohio,OH,MONTGOMERY,01101
+937,Marysville,Ohio,OH,UNION,05139
+937,Springfield,Ohio,OH,CLARK,05019
+937,Hillsboro,Ohio,OH,HIGHLAND,39071
+937,Camden,Ohio,OH,PREBLE,39135
+939,,Puerto Rico,PR,#N/A,#N/A
+940,Wichita Falls,Texas,TX,WICHITA,20203
+940,Denton,Texas,TX,DENTON,48121
+941,Bradenton,Florida,FL,MANATEE,12081
+941,Fort Myers,Florida,FL,LEE,01081
+941,Naples,Florida,FL,COLLIER,12021
+941,Port Charlotte,Florida,FL,CHARLOTTE,12015
+941,Sarasota,Florida,FL,SARASOTA,12115
+949,Irvine,California,CA,ORANGE,06059
+949,Laguna Niguel,California,CA,ORANGE,06059
+952,Bloomington,Minnesota,MN,#N/A,#N/A
+952,Minnetonka,Minnesota,MN,HENNEPIN,27053
+952,Saint Louis Park,Minnesota,MN,#N/A,#N/A
+954,Fort Lauderdale,Florida,FL,BROWARD,12011
+954,Hollywood,Florida,FL,BROWARD,12011
+954,Pompano Beach,Florida,FL,BROWARD,12011
+956,Laredo,Texas,TX,WEBB,48479
+956,McAllen,Texas,TX,HIDALGO,35023
+956,Brownsville,Texas,TX,CAMERON,42023
+970,Aspen,Colorado,CO,PITKIN,08097
+970,Durango,Colorado,CO,LA PLATA,08067
+970,Fort Collins,Colorado,CO,LARIMER,08069
+970,Grand Junction,Colorado,CO,MESA,08077
+970,Steamboat Springs,Colorado,CO,ROUTT,08107
+970,Sterling,Colorado,CO,LOGAN,05083
+970,Greeley,Colorado,CO,WELD,08123
+970,Loveland,Colorado,CO,LARIMER,08069
+970,Vail,Colorado,CO,EAGLE,08037
+971,Portland,Oregon,OR,MULTNOMAH,41051
+971,Salem,Oregon,OR,MARION,01093
+971,Hillsboro,Oregon,OR,WASHINGTON,01129
+972,Dallas,Texas,TX,DALLAS,01047
+972,Plano,Texas,TX,COLLIN,48085
+973,Sussex,New Jersey,NJ,SUSSEX,10005
+973,Paterson,New Jersey,NJ,PASSAIC,34031
+973,Morristown,New Jersey,NJ,MORRIS,20127
+973,Newark,New Jersey,NJ,ESSEX,25009
+978,Fitchburg,Massachusetts,MA,WORCESTER,24047
+978,Methuen,Massachusetts,MA,ESSEX,25009
+978,Peabody,Massachusetts,MA,ESSEX,25009
+978,Lowell,Massachusetts,MA,MIDDLESEX,09007
+979,Wharton,Texas,TX,WHARTON,48481
+979,Bryan/College Station,Texas,TX,#N/A,#N/A
+980,Charlotte,North Carolina,NC,MECKLENBURG,37119
+980,Kingstown,North Carolina,NC,#N/A,#N/A
+985,Houma,Louisiana,LA,TERREBONNE,#N/A
+985,Hammond,Louisiana,LA,TANGIPAHOA,#N/A
+985,Pointe ? la Hache,Louisiana,LA,#N/A,#N/A
+989,Alpena,Michigan,MI,ALPENA,26007
+989,Bay City,Michigan,MI,BAY,12005
+989,Mount Pleasant,Michigan,MI,ISABELLA,26073
+989,Saginaw,Michigan,MI,SAGINAW,26145
